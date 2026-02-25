@@ -19,7 +19,8 @@ This folder contains the three datasets constructed via **data augmentation** an
 * **data_aug_gemini.csv:** Data generated/augmented using Google Gemini.
 * **data_aug_chatgpt.csv:** Data generated/augmented using OpenAI GPT.
 * **data_aug_deepseek.csv:** Data generated/augmented using DeepSeek.
-* **test_real_data.csv** Original data used in testing.  
+* **test_real_data.csv** Original data used in testing.
+* **real_data_for_augmentation.csv** Original data used in augmentation.  
 
 ### 2. `/prompts`
 This folder contains the core prompt templates used throughout the experimental pipeline:
