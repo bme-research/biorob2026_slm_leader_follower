@@ -1,0 +1,1801 @@
+text,label
+"Let's move now.",FOLLOWER
+"Time to get going.",FOLLOWER
+"Let's head out right away.",FOLLOWER
+"We should leave now.",FOLLOWER
+"How about we go now?",FOLLOWER
+"Let's start moving.",FOLLOWER
+"I need to head to practice.",FOLLOWER
+"I'm off to my training now.",FOLLOWER
+"I’ve got to go train.",FOLLOWER
+"I have practice to attend.",FOLLOWER
+"I’m going to my practice session.",FOLLOWER
+"I should go to my practice now.",FOLLOWER
+"I’d like to sign up for a class today.",LEADER
+"I want to enroll in a course today.",LEADER
+"I plan to register for a class today.",LEADER
+"I’d like to get registered for a course now.",LEADER
+"I need to sign up for a class today.",LEADER
+"I’d like to enroll in a lesson today.",LEADER
+"Come here and assist me.",LEADER
+"I need your help. come over.",LEADER
+"Join me and lend a hand.",LEADER
+"Could you come and help me out?",LEADER
+"Please come and assist.",LEADER
+"I could use some help here.",LEADER
+"I'm searching for material for my paper and I'm not sure where to begin.",LEADER
+"I need some resources for a paper but don’t know where to find them.",LEADER
+"I'm trying to locate materials for my research and could use some guidance.",LEADER
+"I’m looking for references for my paper but I’m not sure where to start.",LEADER
+"I need help finding sources for a paper I’m writing.",LEADER
+"I’m unsure where to look for the materials I need for my paper.",LEADER
+"Would it be okay if I stop by?",FOLLOWER
+"Can I come over for a bit?",FOLLOWER
+"Is it alright if I drop in?",FOLLOWER
+"Mind if I come by?",FOLLOWER
+"Could I visit for a moment?",FOLLOWER
+"Can I swing by?",FOLLOWER
+"I feel like having a drink.",FOLLOWER
+"I’m in the mood for a drink.",FOLLOWER
+"I want to go get a drink.",FOLLOWER
+"I could use a drink right now.",FOLLOWER
+"I’d like to grab a drink.",FOLLOWER
+"I feel like going out for a drink.",FOLLOWER
+"What about the new bar across the street?",FOLLOWER
+"Shall we try the new bar opposite?",FOLLOWER
+"How about checking out the bar across the road?",FOLLOWER
+"Maybe the new place across the street?",FOLLOWER
+"Want to go to the new bar nearby?",FOLLOWER
+"Should we go to the bar across the street?",FOLLOWER
+"Where do you want me to meet you?",LEADER
+"Where should we meet?",LEADER
+"At which place shall we meet?",LEADER
+"Where’s the best spot to meet you?",LEADER
+"Where are we meeting up?",LEADER
+"Where do you suggest we meet?",LEADER
+"Let's visit a car dealership.",FOLLOWER
+"How about going to a car dealer?",FOLLOWER
+"Let's head to a car showroom.",FOLLOWER
+"We could go to a dealership.",FOLLOWER
+"Let's check out some car dealers.",FOLLOWER
+"How about visiting a car lot?",FOLLOWER
+"We could drive to the 24-hour store on Sixth Street.",FOLLOWER
+"Let’s go to the 24-hour shop on Sixth.",FOLLOWER
+"We can head to the all-night store on Sixth.",FOLLOWER
+"How about we go to the 24-hour market on Sixth?",FOLLOWER
+"Let's drive to that store on Sixth that's open all night.",FOLLOWER
+"We could go to the 24-hour convenience store on Sixth.",FOLLOWER
+"Where are we heading?",LEADER
+"Where shall we go next?",LEADER
+"Where are we going now?",LEADER
+"What’s our next destination?",LEADER
+"Where do we plan to head?",LEADER
+"Where are we off to next?",LEADER
+"First we’ll head to the downtown area and grab a drink.",FOLLOWER
+"We’ll go to the city center first and stop for a beverage.",FOLLOWER
+"Let’s go to the center first and have something to drink.",FOLLOWER
+"First stop is the city center for a quick drink.",FOLLOWER
+"We’ll start by going downtown for a drink.",FOLLOWER
+"Let’s head into the city first and grab something to sip.",FOLLOWER
+"Where will we go for a drink?",LEADER
+"Where do you want to have a drink?",LEADER
+"Where should we get a drink?",LEADER
+"Where are we planning to have a drink?",LEADER
+"Where shall we stop for a drink?",LEADER
+"Where can we grab a drink together?",LEADER
+"How far away is the museum?",LEADER
+"Is the museum far from here?",LEADER
+"What’s the distance to the museum?",LEADER
+"How long will it take to reach the museum?",LEADER
+"Do you know how far the museum is?",LEADER
+"Is the museum close by?",LEADER
+"We’ll ask for directions once we reach the café.",LEADER
+"Let’s get directions inside the coffee shop.",LEADER
+"We can ask someone at the café for directions.",LEADER
+"We’ll check the directions when we stop for coffee.",LEADER
+"Let’s ask the staff at the coffee shop for help.",LEADER
+"We can find directions at the café.",LEADER
+"You grab us a table and I’ll order the drinks.",LEADER
+"You go find a seat and I’ll get our drinks.",LEADER
+"I’ll take care of the drinks while you find a table.",LEADER
+"Find us a spot to sit. I’ll handle the drinks.",LEADER
+"You look for a table. I’ll go get the beverages.",LEADER
+"I’ll get the drinks if you find a place to sit.",LEADER
+"Want to go to the movies tonight?",FOLLOWER
+"How about catching a film this evening?",FOLLOWER
+"Let’s see a movie tonight.",FOLLOWER
+"Shall we go to the cinema later?",FOLLOWER
+"Would you like to go to the movies tonight?",FOLLOWER
+"How about watching a film tonight?",FOLLOWER
+"Check where the closest tattoo shop is.",LEADER
+"Find the nearest place to get a tattoo.",LEADER
+"Locate the closest tattoo studio.",LEADER
+"See where the nearest tattoo parlor is located.",LEADER
+"Find out where we can get a tattoo nearby.",LEADER
+"Look up the closest tattoo place.",LEADER
+"You’re free to come with us.",FOLLOWER
+"You can join us if you’d like.",FOLLOWER
+"Feel free to join in.",FOLLOWER
+"You’re invited to come along.",FOLLOWER
+"You can tag along if you want.",FOLLOWER
+"You’re welcome to come too.",FOLLOWER
+"Let’s head down together.",FOLLOWER
+"Come on we’ll go down together.",FOLLOWER
+"Let’s move down there as a group.",FOLLOWER
+"Let’s go downstairs together.",FOLLOWER
+"Let’s go together down the way.",FOLLOWER
+"Let’s head down as a team.",FOLLOWER
+"Please come into my office for a moment.",FOLLOWER
+"Step inside my office for a second.",FOLLOWER
+"Could you come into my office for a bit?",FOLLOWER
+"Come into my office for a quick chat.",FOLLOWER
+"Join me in my office for a minute.",FOLLOWER
+"Step in here to my office for a moment.",FOLLOWER
+"I’d like to buy a pair of locus.",LEADER
+"I’m looking for a pair of locus.",LEADER
+"I want to get a pair of locus shoes.",LEADER
+"I’d like to purchase some locus.",LEADER
+"I’m interested in getting a pair of locus.",LEADER
+"I’d like to find a pair of locus.",LEADER
+"I’m in the kitchen come right in!",FOLLOWER
+"I’m in the kitchen just let yourself inside!",FOLLOWER
+"I’m cooking the door’s open — come in!",FOLLOWER
+"I’m in the kitchen feel free to come in!",FOLLOWER
+"I’m in here go ahead and let yourself in!",FOLLOWER
+"I’m in the kitchen come on in!",FOLLOWER
+"You need to jog before breakfast.",FOLLOWER
+"You should go jogging before having breakfast.",FOLLOWER
+"Make sure you run before breakfast.",FOLLOWER
+"Go for a jog before you eat.",FOLLOWER
+"Be sure to jog before your morning meal.",FOLLOWER
+"Start your day with a jog before breakfast.",FOLLOWER
+"After that you should walk to work.",LEADER
+"Next walk to your workplace.",LEADER
+"Then make your way to work on foot.",LEADER
+"Afterward head to work by walking.",LEADER
+"Once done walk the rest of the way to work.",LEADER
+"Then. Continue to your job by walking.",LEADER
+"I think I should see a doctor.",FOLLOWER
+"Maybe I should go visit a doctor.",FOLLOWER
+"I guess I ought to see a physician.",FOLLOWER
+"I probably need to see a doctor.",FOLLOWER
+"I suppose it’s time to visit a doctor.",FOLLOWER
+"I feel like I should get checked by a doctor.",FOLLOWER
+"Do you want to go boating with me?",FOLLOWER
+"Would you like to join me for boating?",FOLLOWER
+"How about going boating together?",FOLLOWER
+"Are you up for a boating trip with me?",FOLLOWER
+"Do you feel like joining me for a boat ride?",FOLLOWER
+"Want to come boating with me?",FOLLOWER
+"How do you normally get to school?",LEADER
+"What’s your usual way of getting to school?",LEADER
+"How do you usually travel to school?",LEADER
+"What’s your typical way of going to school?",LEADER
+"How do you get to school most days?",LEADER
+"How do you typically commute to school?",LEADER
+"I usually go by bike.",FOLLOWER
+"I often ride my bicycle.",FOLLOWER
+"I normally take my bike to school.",FOLLOWER
+"Most of the time I bike there.",FOLLOWER
+"I usually get there on my bicycle.",FOLLOWER
+"I tend to go to school by bike.",FOLLOWER
+"Would you like to come along?",FOLLOWER
+"Do you feel like coming with me?",FOLLOWER
+"Want to join me?",FOLLOWER
+"Would you like to tag along?",FOLLOWER
+"Do you want to come with us?",FOLLOWER
+"Care to come along?",FOLLOWER
+"Where are you going today?",LEADER
+"What’s your destination for today?",LEADER
+"Where do you plan to go today?",LEADER
+"Where will you be heading today?",LEADER
+"Where are you off to today?",LEADER
+"Where do you intend to go today?",LEADER
+"Where are you headed right now?",LEADER
+"Where will you go now?",LEADER
+"Where are you off to at the moment?",LEADER
+"Where are you going at this moment?",LEADER
+"What’s your next destination?",LEADER
+"Where do you plan to go now?",LEADER
+"I’d like to travel to Tianjin.",LEADER
+"I want to go to Tianjin.",LEADER
+"I’d love to visit Tianjin.",LEADER
+"I’m planning to go to Tianjin.",LEADER
+"I’d like to head over to Tianjin.",LEADER
+"I wish to go to Tianjin.",LEADER
+"I’m heading to YY’s place.",FOLLOWER
+"I’m on my way to YY’s.",FOLLOWER
+"I’m going over to YY’s house.",FOLLOWER
+"I’m visiting YY.",FOLLOWER
+"I’m going to see YY.",FOLLOWER
+"I’m off to YY’s place.",FOLLOWER
+"I think I’ll come along with you.",LEADER
+"I guess I’ll join in.",LEADER
+"I’ll join you I think.",LEADER
+"I suppose I’ll go with you.",LEADER
+"I’ll come with you then.",LEADER
+"I feel like joining you.",LEADER
+"I’m going downstairs to get some water.",FOLLOWER
+"I’m heading down to refill my water.",FOLLOWER
+"I’m going downstairs to grab more drinking water.",FOLLOWER
+"I’m going down to get some more water.",FOLLOWER
+"I’m heading downstairs for a water refill.",FOLLOWER
+"I’m going below to fetch more drinking water.",FOLLOWER
+"Let’s grab a coffee together.",FOLLOWER
+"How about we get a coffee together?",FOLLOWER
+"Let’s go have some coffee.",FOLLOWER
+"Let’s get a cup of coffee together.",FOLLOWER
+"Let’s go out for coffee.",FOLLOWER
+"Let’s go share a coffee.",FOLLOWER
+"Are you heading out again?",LEADER
+"Are you going outside once more?",LEADER
+"Going out again?",LEADER
+"Are you planning to go out again?",LEADER
+"Are you leaving again?",LEADER
+"Out again are you?",LEADER
+"Do you want to go ahead first?",LEADER
+"Would you like to go before me?",LEADER
+"Do you want to take the lead?",LEADER
+"Would you prefer to go first?",LEADER
+"Do you want to start off first?",LEADER
+"Would you like to go ahead?",LEADER
+"I often spend time at a leisure spot.",FOLLOWER
+"I usually go to a recreational place.",FOLLOWER
+"I often visit a leisure area.",FOLLOWER
+"I regularly go to a place to relax.",FOLLOWER
+"I frequently go somewhere for leisure.",FOLLOWER
+"I often head to a spot to unwind.",FOLLOWER
+"Do you know the way there?",LEADER
+"Do you know how to reach that place?",LEADER
+"Are you familiar with how to get there?",LEADER
+"Do you know the route to that place?",LEADER
+"Do you know how to find it?",LEADER
+"Do you know how we can get there?",LEADER
+"Come inside.",FOLLOWER
+"Step in.",FOLLOWER
+"Go ahead and come in.",FOLLOWER
+"Please come on in.",FOLLOWER
+"Come right in.",FOLLOWER
+"Feel free to enter.",FOLLOWER
+"I can take you there if you want.",FOLLOWER
+"I’ll guide you there if you’d like.",FOLLOWER
+"I can show you the way if you want to go.",FOLLOWER
+"I’ll bring you there if you’d like.",FOLLOWER
+"I’ll lead you there if you’re interested.",FOLLOWER
+"I can show you how to get there if you wish.",FOLLOWER
+"Would you like to go shopping with me?",FOLLOWER
+"Want to come shopping together?",FOLLOWER
+"Do you feel like going shopping with me?",FOLLOWER
+"Would you like to join me for shopping?",FOLLOWER
+"How about coming shopping with me?",FOLLOWER
+"Do you want to go out shopping with me?",FOLLOWER
+"We should probably get back to work.",FOLLOWER
+"Let’s return to work.",FOLLOWER
+"Time to get back to work.",FOLLOWER
+"We’d better start working again.",FOLLOWER
+"Let’s go back to our tasks.",FOLLOWER
+"We should resume our work.",FOLLOWER
+"Would you like to come with me?",FOLLOWER
+"Do you feel like joining me?",FOLLOWER
+"Want to go together?",FOLLOWER
+"Would you like to go along with me?",FOLLOWER
+"Do you want to tag along with me?",FOLLOWER
+"Want to come along?",FOLLOWER
+"I need your help!",LEADER
+"You have to help me out!",LEADER
+"Please. I need assistance!",LEADER
+"You must give me a hand!",LEADER
+"I really need your help!",LEADER
+"You’ve got to help me here!",LEADER
+"I’ll take the stairs instead.",FOLLOWER
+"I’m going to use the stairs.",FOLLOWER
+"I’ll go up by the stairs.",FOLLOWER
+"I’m choosing the stairs.",FOLLOWER
+"I’ll walk up the stairs.",FOLLOWER
+"I’m taking the stairs this time.",FOLLOWER
+"You should join me!",FOLLOWER
+"Come along with me!",FOLLOWER
+"You really need to come with me!",FOLLOWER
+"You’d better come too!",FOLLOWER
+"Come with me you’ll enjoy it!",FOLLOWER
+"You have to come along with me!",FOLLOWER
+"So. Where do you think we should go?",LEADER
+"Where shall we head to?",LEADER
+"Where do you suggest we go?",LEADER
+"Where should we head next?",LEADER
+"So. What’s our next destination?",LEADER
+"Where do you think we ought to go?",LEADER
+"I’m going out to visit my aunt.",FOLLOWER
+"I’ll head out to see my aunt.",FOLLOWER
+"I’m planning to visit my aunt.",FOLLOWER
+"I’m going to pay my aunt a visit.",FOLLOWER
+"I’ll go out to see my aunt today.",FOLLOWER
+"I’m off to visit my aunt.",FOLLOWER
+"I’ll give you a tour and introduce you to the department heads.",FOLLOWER
+"I’ll take you around and let you meet the managers.",FOLLOWER
+"I’ll show you the place and introduce you to the team leads.",FOLLOWER
+"I’ll guide you around and present you to the department supervisors.",FOLLOWER
+"I’ll walk you through and introduce you to the department heads.",FOLLOWER
+"I’ll take you on a tour and introduce you to the managers.",FOLLOWER
+"We could take a stroll in the park.",FOLLOWER
+"Let’s go for a walk in the park.",FOLLOWER
+"How about a walk in the park?",FOLLOWER
+"Maybe we could walk through the park.",FOLLOWER
+"Let’s take a short walk in the park.",FOLLOWER
+"Want to go for a stroll in the park?",FOLLOWER
+"Can you give me a ride?",LEADER
+"Would you be able to drive me?",LEADER
+"Could you take me there by car?",LEADER
+"Can you take me by driving?",LEADER
+"Would you mind driving me?",LEADER
+"Can you give me a lift?",LEADER
+"I’m going to meet with other collectors.",FOLLOWER
+"I have a meeting with some collectors.",FOLLOWER
+"I’m meeting a few fellow collectors.",FOLLOWER
+"I’ve got an appointment with other collectors.",FOLLOWER
+"I’m seeing some other collectors today.",FOLLOWER
+"I’m gathering with a few collectors.",FOLLOWER
+"I’m leaving on my own now.",FOLLOWER
+"I’m going out by myself.",FOLLOWER
+"I’m heading out alone.",FOLLOWER
+"I’m stepping out on my own.",FOLLOWER
+"I’m going out solo.",FOLLOWER
+"I’m going by myself.",FOLLOWER
+"We’re helping Mr. Smith plant some flowers.",FOLLOWER
+"We’ll assist Mr. Smith with planting flowers.",FOLLOWER
+"We’re going to give Mr. Smith a hand with the garden.",FOLLOWER
+"We’re going to help Mr. Smith with some flower planting.",FOLLOWER
+"We’ll be helping Mr. Smith put in some flowers.",FOLLOWER
+"We’re assisting Mr. Smith in planting flowers.",FOLLOWER
+"Are you moving to this place?",LEADER
+"Are you relocating here?",LEADER
+"So. You’re moving here?",LEADER
+"Are you coming to live here?",LEADER
+"You’re settling here right?",LEADER
+"Are you planning to move here?",LEADER
+"Where should we go this time?",LEADER
+"What’s a good place to go this time?",LEADER
+"Where do you think we should go now?",LEADER
+"Where can we head this time?",LEADER
+"Where shall we go on this occasion?",LEADER
+"Any idea where to go this time?",LEADER
+"I’m searching for books for my mom.",LEADER
+"I’m trying to find some books for my mother.",LEADER
+"I’m looking to buy books for my mom.",LEADER
+"I need to get some books for my mother.",LEADER
+"I’m finding some books as a gift for my mom.",LEADER
+"I’m looking around for books for my mother.",LEADER
+"How about going for a walk?",FOLLOWER
+"Want to take a walk?",FOLLOWER
+"Shall we go for a walk?",FOLLOWER
+"Let’s take a walk what do you think?",FOLLOWER
+"Maybe we should go for a walk.",FOLLOWER
+"Would you like to go walking?",FOLLOWER
+"Alright. Come with me.",FOLLOWER
+"Yes. Follow along.",FOLLOWER
+"Okay. Follow my lead.",FOLLOWER
+"Sure. Come this way.",FOLLOWER
+"Yes. Walk with me.",FOLLOWER
+"Alright. Follow behind me.",FOLLOWER
+"Why don’t you go in front of me?",LEADER
+"You should go ahead of me.",LEADER
+"Go on before me.",LEADER
+"Why don’t you lead the way?",LEADER
+"You can go first if you want.",LEADER
+"Please. Go ahead of me.",LEADER
+"Could you show me that?",LEADER
+"Can you demonstrate it for me?",LEADER
+"Would you mind showing it to me?",LEADER
+"Can you point it out to me?",LEADER
+"Can you show me how it looks?",LEADER
+"Would you show it to me please?",LEADER
+"I’ll try to find out where the school is.",LEADER
+"I’m going to look for the school’s location.",LEADER
+"I’ll try to discover where the school is located.",LEADER
+"I’ll find out where the school can be found.",LEADER
+"I’m going to see where the school is.",LEADER
+"I’ll try to locate the school.",LEADER
+"Let’s step outside and talk.",FOLLOWER
+"Let’s go out and have a chat.",FOLLOWER
+"Come on. Let’s talk outside.",FOLLOWER
+"Let’s go outdoors to talk.",FOLLOWER
+"Let’s head out for a conversation.",FOLLOWER
+"Let’s move outside to discuss.",FOLLOWER
+"Head back the same way you came.",LEADER
+"Return the way you arrived.",LEADER
+"Go back along your previous path.",LEADER
+"Retrace your steps.",LEADER
+"Go back in the direction you came from.",LEADER
+"Follow your path back.",LEADER
+"Let’s step out and enjoy the air.",FOLLOWER
+"Let’s go outside to get some fresh air.",FOLLOWER
+"Come on. Let’s enjoy the breeze.",FOLLOWER
+"Let’s go out for some fresh air.",FOLLOWER
+"Let’s get outside and relax a bit.",FOLLOWER
+"Let’s go breathe some fresh air.",FOLLOWER
+"Alright. Let’s grab a drink.",FOLLOWER
+"Okay. Let’s get something to drink together.",FOLLOWER
+"Let’s go have a drink.",FOLLOWER
+"Sure. Let’s find something to drink.",FOLLOWER
+"Alright. Time for a drink.",FOLLOWER
+"Let’s get a beverage.",FOLLOWER
+"I’ll let you go ahead.",LEADER
+"You can go before me.",LEADER
+"I’ll let you take the lead.",LEADER
+"I’ll let you go in front.",LEADER
+"You go first I’ll follow.",LEADER
+"I’m letting you go ahead of me.",LEADER
+"Let’s head into the school auditorium.",FOLLOWER
+"Let’s go inside the auditorium.",FOLLOWER
+"Come on. Let’s enter the school hall.",FOLLOWER
+"Let’s go into the assembly hall.",FOLLOWER
+"Let’s move into the auditorium.",FOLLOWER
+"Let’s go inside to the school auditorium.",FOLLOWER
+"I’ll go alone thank you.",FOLLOWER
+"I’ll handle it myself thanks.",FOLLOWER
+"I’ll go on my own thanks.",FOLLOWER
+"Thanks but I’ll go by myself.",FOLLOWER
+"I’ll do it alone. Appreciate it.",FOLLOWER
+"I’ll go there on my own thanks.",FOLLOWER
+"I need to go to the bathroom.",LEADER
+"I want to use the restroom.",LEADER
+"I have to go to the toilet.",LEADER
+"I need to find a restroom.",LEADER
+"I’d like to go to the washroom.",LEADER
+"I want to use the bathroom.",LEADER
+"Sorry. I have to leave now.",FOLLOWER
+"I need to head out right away.",FOLLOWER
+"I should be going at this moment.",FOLLOWER
+"I must get going now.",FOLLOWER
+"I really should go now.",FOLLOWER
+"I have to go immediately.",FOLLOWER
+"Take me to the hospital please!",LEADER
+"I need to get to a hospital quickly!",LEADER
+"Can you bring me to the hospital?",LEADER
+"Please drive me to the hospital!",LEADER
+"I have to go to the hospital now!",LEADER
+"Bring me straight to a hospital!",LEADER
+"I'm heading to the outlet mall.",FOLLOWER
+"I'm going to shop at the outlet center.",FOLLOWER
+"I'm planning to visit the outlet.",FOLLOWER
+"I’ll go to the outlet mall.",FOLLOWER
+"I’m on my way to the outlet center.",FOLLOWER
+"I intend to go to the outlet stores.",FOLLOWER
+"Can you tell me where the visa office is?",LEADER
+"Do you happen to know the visa office location?",LEADER
+"Where exactly is the visa office?",LEADER
+"Could you show me the way to the visa office?",LEADER
+"Do you know how to get to the visa office?",LEADER
+"Can you point me to the visa office?",LEADER
+"I’ll take you there.",FOLLOWER
+"I’ll guide you to that place.",FOLLOWER
+"I’ll bring you there myself.",FOLLOWER
+"I’ll show you the way to get there.",FOLLOWER
+"I can walk you to that place.",FOLLOWER
+"I’ll lead you there safely.",FOLLOWER
+"I’m going to the library. Would you like to join?",FOLLOWER
+"I’m heading to the library. Want to come?",FOLLOWER
+"I’m off to the library. Are you coming too?",FOLLOWER
+"I’m on my way to the library. Care to join me?",FOLLOWER
+"I’m going to the library. Do you want to come along?",FOLLOWER
+"I plan to go to the library. Are you joining?",FOLLOWER
+"I’ll show you how to get there.",FOLLOWER
+"Let me guide you to the place.",FOLLOWER
+"I can lead you along the path.",FOLLOWER
+"I’ll take you in the right direction.",FOLLOWER
+"Let me walk you through the route.",FOLLOWER
+"I’ll guide you all the way there.",FOLLOWER
+"Follow me please.",FOLLOWER
+"Come along with me.",FOLLOWER
+"Walk after me please.",FOLLOWER
+"Stay behind me and follow.",FOLLOWER
+"Join me. I’ll lead the way.",FOLLOWER
+"Please. Walk with me.",FOLLOWER
+"I’d like to go for a picnic.",LEADER
+"I want to have a picnic outside.",LEADER
+"Let’s go out for a picnic.",LEADER
+"I feel like going on a picnic.",LEADER
+"I’d love to go have a picnic.",LEADER
+"I’m planning to go for a picnic.",LEADER
+"I have to leave now.",FOLLOWER
+"I really must go.",FOLLOWER
+"I should get going soon.",FOLLOWER
+"I need to head out now.",FOLLOWER
+"I have to go right away.",FOLLOWER
+"I must be leaving.",FOLLOWER
+"How about checking out the theater?",LEADER
+"Shall we take a look around the theater?",LEADER
+"Why don’t we explore the theater?",LEADER
+"Would you like to see the theater?",LEADER
+"Let’s have a look around the theater.",LEADER
+"How about we go see the theater?",LEADER
+"I’m not sure where the bookstore is located.",LEADER
+"I have no idea where the bookstore might be.",LEADER
+"I don’t know the location of the bookstore.",LEADER
+"I’m unsure about where the bookstore is.",LEADER
+"I’m not certain where to find the bookstore.",LEADER
+"I don’t know how to get to the bookstore.",LEADER
+"We’re heading to the cinema.",FOLLOWER
+"We’re going to watch a movie.",FOLLOWER
+"We’re on our way to the movie theater.",FOLLOWER
+"We’re going to see a film.",FOLLOWER
+"We’re off to the movies now.",FOLLOWER
+"We’re planning to go to the cinema.",FOLLOWER
+"I can’t decide on a place to go.",LEADER
+"I’m not sure where I want to go.",LEADER
+"I’m having trouble choosing where to go.",LEADER
+"I can’t make up my mind about where to go.",LEADER
+"I still don’t know where to go.",LEADER
+"I’m uncertain about where I should go.",LEADER
+"We could take a walk and get some fresh air.",FOLLOWER
+"Let’s go for a walk to enjoy the breeze.",FOLLOWER
+"Maybe we can stroll around and enjoy the air.",FOLLOWER
+"Let’s take a walk outside for some fresh air.",FOLLOWER
+"We can have a walk and breathe some fresh air.",FOLLOWER
+"Let’s walk around and relax in the fresh air.",FOLLOWER
+"Where will the concert take place tonight?",LEADER
+"Do you know the venue for tonight’s concert?",LEADER
+"Where is the concert happening this evening?",LEADER
+"Where’s tonight’s concert being held?",LEADER
+"Can you tell me where the concert is tonight?",LEADER
+"Where exactly is the concert this evening?",LEADER
+"We can check the GPS to find the best way home.",LEADER
+"Let’s use the navigation to figure out the best route home.",LEADER
+"We can look up the map to get the best route back.",LEADER
+"Let’s check the navigation system for the quickest way home.",LEADER
+"We can use the map to find the best path home.",LEADER
+"Let’s consult the GPS to plan our way home.",LEADER
+"I think I’ll just go on foot.",FOLLOWER
+"I’ll just walk there myself.",FOLLOWER
+"I’d rather walk instead.",FOLLOWER
+"I think I’ll take a walk instead of driving.",FOLLOWER
+"I’ll walk to get there.",FOLLOWER
+"I prefer walking.",FOLLOWER
+"Can you show me where to find it?",LEADER
+"Would you mind showing me where it is?",LEADER
+"Could you guide me to where I can find it?",LEADER
+"Can you help me locate it?",LEADER
+"Would you show me where it’s located?",LEADER
+"Can you point me in the direction of it?",LEADER
+"Let’s find a quiet spot to sit and have a drink.",FOLLOWER
+"Let’s look for a peaceful place to sit and enjoy a beverage.",FOLLOWER
+"Let’s find a calm place to sit down and have something to drink.",FOLLOWER
+"Let’s sit somewhere quiet and get a drink.",FOLLOWER
+"Let’s pick a quiet seat and relax with a drink.",FOLLOWER
+"Let’s find a cozy spot to sit and have a beverage.",FOLLOWER
+"Let’s walk to that place.",FOLLOWER
+"Let’s go there on foot.",FOLLOWER
+"Let’s take a walk to get there.",FOLLOWER
+"Let’s walk all the way there.",FOLLOWER
+"Let’s go by walking.",FOLLOWER
+"Let’s head there by foot.",FOLLOWER
+"Do you happen to know where it is?",LEADER
+"Can you tell me where that place is?",LEADER
+"Do you know the location of that place?",LEADER
+"Would you know where that is located?",LEADER
+"Could you tell me where that is?",LEADER
+"Do you have any idea where it might be?",LEADER
+"Will you come with me?",FOLLOWER
+"Are you joining me?",FOLLOWER
+"Would you like to come along with me?",FOLLOWER
+"Are you coming along?",FOLLOWER
+"Do you want to come with me?",FOLLOWER
+"Will you be coming too?",FOLLOWER
+"I'm going out shopping.",FOLLOWER
+"I’m heading to do some shopping.",FOLLOWER
+"I’m planning to go shopping.",FOLLOWER
+"I’m off to the store.",FOLLOWER
+"I’ll go out and buy a few things.",FOLLOWER
+"I’m going to the shops.",FOLLOWER
+"Come with me to the backyard.",FOLLOWER
+"Follow me into the backyard.",FOLLOWER
+"Walk with me to the backyard.",FOLLOWER
+"Let’s go to the backyard follow me.",FOLLOWER
+"Come on. I’ll show you the backyard.",FOLLOWER
+"Head with me to the backyard.",FOLLOWER
+"Would you like to grab something to eat together?",FOLLOWER
+"How about getting some food with me?",FOLLOWER
+"Do you want to have a meal with me?",FOLLOWER
+"Would you like to eat something together?",FOLLOWER
+"Want to join me for something to eat?",FOLLOWER
+"Shall we get something to eat together?",FOLLOWER
+"We could try that new Chinese restaurant.",FOLLOWER
+"Let’s go to the new Chinese place.",FOLLOWER
+"How about eating at that new Chinese restaurant?",FOLLOWER
+"We can check out the new Chinese restaurant.",FOLLOWER
+"Let’s visit that new Chinese restaurant.",FOLLOWER
+"We might go to the new Chinese place.",FOLLOWER
+"Could you tell me where to park?",LEADER
+"Do you know where I can park?",LEADER
+"Can you show me a place to park?",LEADER
+"Where am I allowed to park?",LEADER
+"Can you help me find a parking spot?",LEADER
+"Do you know any place I can park?",LEADER
+"How about taking a walk in the hills?",FOLLOWER
+"Let’s go for a walk up in the hills.",FOLLOWER
+"Why don’t we take a stroll in the hills?",FOLLOWER
+"We could go walking through the hills.",FOLLOWER
+"Let’s have a walk around the hills.",FOLLOWER
+"Maybe we can walk in the hills.",FOLLOWER
+"I’m not sure where to go.",LEADER
+"I don’t know which way I should go.",LEADER
+"I’m uncertain about where I need to go.",LEADER
+"I can’t decide where I’m supposed to go.",LEADER
+"I’m unsure of my destination.",LEADER
+"I have no idea which direction to take.",LEADER
+"I’ll ask the old lady in the reception office.",FOLLOWER
+"Let me check with the woman at reception.",FOLLOWER
+"I’ll go talk to the old woman in the office.",FOLLOWER
+"I’ll ask that lady in the reception area.",FOLLOWER
+"I’ll go see the old woman at the reception desk.",FOLLOWER
+"Let me talk to the receptionist over there.",FOLLOWER
+"That shaded spot looks really nice.",FOLLOWER
+"Hey that place under the shade looks comfy.",FOLLOWER
+"That spot in the shade seems perfect.",FOLLOWER
+"Look that shaded area looks so comfortable.",FOLLOWER
+"That place in the shade looks inviting.",FOLLOWER
+"I like that shady spot—it looks comfortable.",FOLLOWER
+"I think I’ll go take a look at that now.",FOLLOWER
+"I’ll go check it out right now.",FOLLOWER
+"I’m going to see that now.",FOLLOWER
+"I’ll take a look at it immediately.",FOLLOWER
+"I think I’ll go explore that now.",FOLLOWER
+"I’ll go have a look at that now.",FOLLOWER
+"Which college are you planning to attend?",LEADER
+"Which university are you heading to?",LEADER
+"Do you know which university you’ll go to?",LEADER
+"Which school will you be going to?",LEADER
+"Where are you planning to study?",LEADER
+"Which university are you going to join?",LEADER
+"First we’ll grab a newspaper then head to the library.",FOLLOWER
+"We’ll buy a newspaper first and then go to the library.",FOLLOWER
+"Let’s get a newspaper before going to the library.",FOLLOWER
+"First we’ll stop for a newspaper then we’ll visit the library.",FOLLOWER
+"We’ll go pick up a newspaper and afterward go to the library.",FOLLOWER
+"Let’s buy a newspaper and then make our way to the library.",FOLLOWER
+"How can we reach the library from here?",LEADER
+"Which way do we take to get to the library?",LEADER
+"Can you tell me how to get to the library from here?",LEADER
+"How do we find our way to the library?",LEADER
+"What’s the best route to the library from here?",LEADER
+"Do you know how we can get to the library from this spot?",LEADER
+"Can you assist me with class registration?",LEADER
+"Could you help me sign up for a course?",LEADER
+"Would you help me register for a class?",LEADER
+"I need some help enrolling in a class could you assist?",LEADER
+"Can you help me with enrolling in a class?",LEADER
+"Could you guide me through registering for a class?",LEADER
+"Please move to the front.",FOLLOWER
+"Come forward please.",FOLLOWER
+"Step up to the front.",FOLLOWER
+"Walk to the front please.",FOLLOWER
+"Head to the front area please.",FOLLOWER
+"Please proceed to the front.",FOLLOWER
+"Take them to my wife’s car.",LEADER
+"Please bring those items to my wife’s car.",LEADER
+"Could you carry them to my wife’s car?",LEADER
+"Deliver them to my wife’s car please.",LEADER
+"Bring those things over to my wife’s car.",LEADER
+"Move them to my wife’s car please.",LEADER
+"Excuse me could you please assist me?",LEADER
+"Sorry to bother you but could you help me?",LEADER
+"Excuse me I was wondering if you could assist me?",LEADER
+"Pardon me might you be able to help me?",LEADER
+"Excuse me could I ask for your help?",LEADER
+"Sorry would you mind giving me a hand?",LEADER
+"Is there a place where I can buy slides and postcards?",LEADER
+"Can you tell me where to buy slides and picture postcards?",LEADER
+"Do you know where I can get slides and postcards?",LEADER
+"Where can I purchase slides and postcards?",LEADER
+"Could you tell me if slides and postcards are sold somewhere?",LEADER
+"Is there anywhere around here to buy slides and postcards?",LEADER
+"I’m heading to the bookstore.",FOLLOWER
+"I’ll go to the bookstore now.",FOLLOWER
+"I’m going over to the bookstore.",FOLLOWER
+"I’m on my way to the bookstore.",FOLLOWER
+"I plan to go to the bookstore.",FOLLOWER
+"I’m going to visit the bookstore.",FOLLOWER
+"Do you have any place in mind?",LEADER
+"Have you thought of a place to go?",LEADER
+"Is there somewhere you’d like to go?",LEADER
+"Do you already have a destination in mind?",LEADER
+"Have you picked out a place yet?",LEADER
+"Is there any spot you’re thinking of?",LEADER
+"I’m heading to the University of Tampa.",FOLLOWER
+"I’m going to study at the University of Tampa.",FOLLOWER
+"I’ll be going to the University of Tampa.",FOLLOWER
+"I’m on my way to the University of Tampa.",FOLLOWER
+"I plan to go to the University of Tampa.",FOLLOWER
+"I’m attending the University of Tampa.",FOLLOWER
+"I’ll have you come over sometime.",FOLLOWER
+"I’ll invite you to my place soon.",FOLLOWER
+"I’ll ask you to come visit me.",FOLLOWER
+"I’ll bring you over one of these days.",FOLLOWER
+"I’ll have you over at my place.",FOLLOWER
+"I’ll invite you to come by.",FOLLOWER
+"Shall we grab a coffee at that café?",FOLLOWER
+"How about getting some coffee there?",FOLLOWER
+"Want to have a coffee at that café?",FOLLOWER
+"Let’s go have a coffee at that café.",FOLLOWER
+"Would you like to stop for a coffee there?",FOLLOWER
+"Let’s grab a coffee at that café.",FOLLOWER
+"Let me take a look.",FOLLOWER
+"I’ll check it out myself.",FOLLOWER
+"I just want to have a quick look.",FOLLOWER
+"Let me see that for a moment.",FOLLOWER
+"I’ll take a quick look at it.",FOLLOWER
+"Let me examine it.",FOLLOWER
+"I can show you the right way.",FOLLOWER
+"I’ll point you in the correct direction.",FOLLOWER
+"I can guide you toward where you need to go.",FOLLOWER
+"I’ll direct you to the right path.",FOLLOWER
+"I can lead you the right way.",FOLLOWER
+"I’ll help you find the correct direction.",FOLLOWER
+"Are you able to locate the office?",LEADER
+"Can you figure out where the office is?",LEADER
+"Could you find the office building?",LEADER
+"Do you know how to find the office?",LEADER
+"Can you manage to find the office?",LEADER
+"Do you know where the office might be?",LEADER
+"Where’s the closest McDonald’s?",LEADER
+"Can you tell me where the nearest McDonald’s is?",LEADER
+"Where can I find the closest McDonald’s?",LEADER
+"Do you know where the nearest McDonald’s is located?",LEADER
+"Could you show me the way to the nearest McDonald’s?",LEADER
+"Where exactly is the nearest McDonald’s?",LEADER
+"I thought you already knew where to get off.",LEADER
+"I assumed you knew our stop.",LEADER
+"I thought you remembered where we get off.",LEADER
+"I believed you knew the stop we need.",LEADER
+"I assumed you were aware of where to get off.",LEADER
+"I thought you knew the station we leave at.",LEADER
+"I’m heading to the gym.",FOLLOWER
+"I’m going to work out at the gym.",FOLLOWER
+"I’ll go to the gym now.",FOLLOWER
+"I’m off to the gym.",FOLLOWER
+"I plan to go to the gym.",FOLLOWER
+"I’m on my way to the gym.",FOLLOWER
+"Is it simple to reach the city center?",LEADER
+"Is getting into the city center easy?",LEADER
+"Do you know if it’s easy to reach downtown?",LEADER
+"Is it easy to go into the city center?",LEADER
+"Would it be easy to access the city center?",LEADER
+"Is traveling to the city center simple?",LEADER
+"Excuse me could you tell me where Beijing Railway Station is?",LEADER
+"Excuse me how do I get to Beijing Railway Station?",LEADER
+"Can you show me the way to Beijing Railway Station?",LEADER
+"Excuse me where can I find the Beijing Railway Station?",LEADER
+"Could you direct me to Beijing Railway Station please?",LEADER
+"Do you know where the Beijing Railway Station is located?",LEADER
+"Can you tell me how to reach the Olympic Stadium?",LEADER
+"Could you show me the way to the Olympic Stadium?",LEADER
+"How can I get to the Olympic Stadium?",LEADER
+"Please tell me the way to the Olympic Stadium.",LEADER
+"Excuse me how do I reach the Olympic Stadium?",LEADER
+"Would you tell me how to get to the Olympic Stadium?",LEADER
+"I’m not sure where the best place to shop is.",LEADER
+"I don’t know the best area for shopping.",LEADER
+"I’m unsure about the best spot to go shopping.",LEADER
+"I have no idea where to shop for the best options.",LEADER
+"I don’t know which place is best for shopping.",LEADER
+"I’m not certain about the best shopping place.",LEADER
+"He needs to visit an office supply store.",FOLLOWER
+"He should head to a store that sells office supplies.",FOLLOWER
+"He ought to go to an office supplies shop.",FOLLOWER
+"He has to go to an office store for that.",FOLLOWER
+"He should buy it at an office supplies store.",FOLLOWER
+"He’ll find that at an office supply shop.",FOLLOWER
+"We’ll take care of that on our way home.",FOLLOWER
+"We’ll handle that before heading home.",FOLLOWER
+"We can do that while we’re going home.",FOLLOWER
+"We’ll do that as we make our way back home.",FOLLOWER
+"We’ll get that done on the way back.",FOLLOWER
+"We can stop for that while heading home.",FOLLOWER
+"Where can I get some cigarettes?",LEADER
+"Can you tell me where to buy cigarettes?",LEADER
+"Do you know a place where I can buy cigarettes?",LEADER
+"Where’s a good spot to buy cigarettes?",LEADER
+"Could you tell me where cigarettes are sold?",LEADER
+"Where might I find some cigarettes to buy?",LEADER
+"Can you tell me where the men’s restroom is?",LEADER
+"Where’s the men’s bathroom located?",LEADER
+"Excuse me where’s the men’s toilet?",LEADER
+"Could you point me to the men’s room?",LEADER
+"Where do I find the men’s restroom?",LEADER
+"Do you know where the men’s room is?",LEADER
+"Is there a place where I can work out?",LEADER
+"Do you have somewhere I could exercise?",LEADER
+"Where can I go to get some exercise?",LEADER
+"Do you know of a spot for exercising?",LEADER
+"Is there any area here to exercise?",LEADER
+"Could you tell me where I can work out?",LEADER
+"Let’s walk downtown and look at the shop windows.",FOLLOWER
+"Let’s take a stroll into town and browse the stores.",FOLLOWER
+"Let’s go into town and do some window shopping.",FOLLOWER
+"Let’s head downtown and check out the stores.",FOLLOWER
+"Let’s take a walk into town to look around the shops.",FOLLOWER
+"Let’s go for a walk downtown and look at the displays.",FOLLOWER
+"You’ll need to go to the computer lab to print that.",FOLLOWER
+"You have to use the computer lab for printing.",FOLLOWER
+"You should go to the computer lab if you need to print.",FOLLOWER
+"You’ll need the computer lab to handle your printing.",FOLLOWER
+"You’ll have to use the computer lab for your prints.",FOLLOWER
+"You must go to the computer lab for printing.",FOLLOWER
+"Alright it’s time for us to walk now.",FOLLOWER
+"Okay now we have to start walking.",FOLLOWER
+"Good we need to get moving on foot.",FOLLOWER
+"Great let’s begin walking now.",FOLLOWER
+"Perfect we have to walk from here.",FOLLOWER
+"Alright now we’ve got to walk.",FOLLOWER
+"Where can we get one?",LEADER
+"Do you know where we could buy one?",LEADER
+"Where might we find one to purchase?",LEADER
+"Can you tell me where we can buy one?",LEADER
+"Where are they sold?",LEADER
+"Do you know a place where we could get one?",LEADER
+"We need to head to State Street.",FOLLOWER
+"We have to go down to State Street.",FOLLOWER
+"Our next stop is State Street.",FOLLOWER
+"We should make our way to State Street.",FOLLOWER
+"We’re supposed to go to State Street.",FOLLOWER
+"We’re heading to State Street next.",FOLLOWER
+"Let's head to the information desk first.",FOLLOWER
+"We should stop by the inquiry counter first.",FOLLOWER
+"Let's visit the help desk before we continue.",FOLLOWER
+"How about we go to the information booth first?",FOLLOWER
+"I think we should check with the inquiry desk first.",FOLLOWER
+"Let's start by going to the information counter.",FOLLOWER
+"The fitting room is that way.",FOLLOWER
+"You’ll find the changing room over there.",FOLLOWER
+"The trial room is located right over there.",FOLLOWER
+"The dressing area is in that direction.",FOLLOWER
+"That’s where the fitting rooms are.",FOLLOWER
+"You can find the changing area just over there.",FOLLOWER
+"I’ll go buy some more painkillers in a bit.",FOLLOWER
+"I plan to get more painkillers soon.",FOLLOWER
+"In a few minutes I’ll go pick up more painkillers.",FOLLOWER
+"I’ll head out shortly to buy additional painkillers.",FOLLOWER
+"I was just about to buy more painkillers soon.",FOLLOWER
+"I’ll grab some more painkillers later on.",FOLLOWER
+"Could you tell me how to get to Wort Street please?",LEADER
+"Excuse me where can I find Wort Street?",LEADER
+"Do you know where Wort Street is?",LEADER
+"Can you show me the way to Wort Street?",LEADER
+"How can I reach Wort Street please?",LEADER
+"Would you tell me where Wort Street is located?",LEADER
+"Can you tell me how to get to the canteen?",LEADER
+"Excuse me where can I find the cafeteria?",LEADER
+"Would you please show me where the canteen is?",LEADER
+"Could you point me to the dining hall?",LEADER
+"Where exactly is the canteen located?",LEADER
+"Can you direct me to the canteen please?",LEADER
+"I can actually guide you there.",FOLLOWER
+"I’ll take you there myself.",FOLLOWER
+"I can show you the way no problem.",FOLLOWER
+"I can lead you there if you want.",FOLLOWER
+"I know the way I can take you there.",FOLLOWER
+"I can bring you there it’s no trouble.",FOLLOWER
+"I was already on my way there.",FOLLOWER
+"I’m heading there anyway.",FOLLOWER
+"That’s where I was going too.",FOLLOWER
+"I was just planning to go there myself.",FOLLOWER
+"I was actually going there already.",FOLLOWER
+"That was my next stop too.",FOLLOWER
+"Is there a bookshop nearby?",LEADER
+"Do you know if there’s a bookstore close to here?",LEADER
+"Where can I find a bookstore around here?",LEADER
+"Is there any place nearby that sells books?",LEADER
+"Can you tell me if there’s a bookstore near this area?",LEADER
+"Is there a shop that sells books close by?",LEADER
+"We’d like to have our business lunch at that restaurant.",FOLLOWER
+"We’re planning to hold a business lunch there.",FOLLOWER
+"We intend to organize a business lunch at the restaurant.",FOLLOWER
+"We’re thinking of having our business lunch at that place.",FOLLOWER
+"Our plan is to host a business lunch at the restaurant.",FOLLOWER
+"We’d like to schedule a business lunch there.",FOLLOWER
+"Maybe you could send me the directions to be sure.",LEADER
+"Could you share the directions with me just in case?",LEADER
+"Perhaps you could forward me the directions to confirm.",LEADER
+"You might want to send me the directions so I’m certain.",LEADER
+"Can you send me the directions just to double-check?",LEADER
+"Please send me the directions just to be safe.",LEADER
+"Where can I board the plane for New York?",LEADER
+"Which gate is for the flight to New York?",LEADER
+"Can you tell me where to catch the New York flight?",LEADER
+"Where do I go to board the plane to New York?",LEADER
+"Could you tell me where the New York boarding area is?",LEADER
+"At which terminal do I catch the plane to New York?",LEADER
+"let's hurry up and find a Sichuan Hotpot place for dinner!",FOLLOWER
+"come on let’s stop wasting time and look for a Sichuan Hotpot restaurant!",FOLLOWER
+"let’s quit dawdling and find a good Sichuan Hotpot spot to eat!",FOLLOWER
+"we should move and find a Sichuan Hotpot restaurant now!",FOLLOWER
+"let’s stop stalling and go look for a Sichuan Hotpot place for dinner!",FOLLOWER
+"come on let’s get going and find a Sichuan Hotpot restaurant!",FOLLOWER
+"Which street should I go to catch it?",LEADER
+"Can you tell me what street I need to take to catch it?",LEADER
+"On which street can I catch it?",LEADER
+"Where do I need to go to catch it?",LEADER
+"Which road should I take to find it?",LEADER
+"Could you tell me the street where I can get it?",LEADER
+"I’m trying to find the train station.",LEADER
+"Could you tell me where the train station is?",LEADER
+"I need directions to the train station.",LEADER
+"Where can I find the train station?",LEADER
+"I’m looking for where the train station is located.",LEADER
+"Can you show me the way to the train station?",LEADER
+"Is it possible for me to meet my colleagues?",LEADER
+"Can I go and see my colleagues?",LEADER
+"Would it be alright if I met with my colleagues?",LEADER
+"Could I meet up with my colleagues?",LEADER
+"Am I allowed to meet my colleagues?",LEADER
+"Would you let me meet my colleagues?",LEADER
+"How far away is the office from the airport?",LEADER
+"Can you tell me the distance between the office and the airport?",LEADER
+"Is the office far from the airport?",LEADER
+"Do you know how far the office is from the airport?",LEADER
+"What’s the distance from the airport to the office?",LEADER
+"About how long does it take to get from the airport to the office?",LEADER
+"I’m heading to the airport.",FOLLOWER
+"I’m on my way to the airport.",FOLLOWER
+"I plan to go to the airport.",FOLLOWER
+"I’ll be going to the airport now.",FOLLOWER
+"I’m making my way to the airport.",FOLLOWER
+"I’m going to head over to the airport.",FOLLOWER
+"Could you tell me where I can buy some shoes?",LEADER
+"Do you know where I can get a pair of shoes?",LEADER
+"Where can I find a shop that sells shoes?",LEADER
+"Can you show me a place to buy shoes?",LEADER
+"Where could I purchase a pair of shoes?",LEADER
+"Can you point me to a store where I can buy shoes?",LEADER
+"Would you like to continue from here?",LEADER
+"Do you want to take it from this point?",LEADER
+"Would you prefer to handle it from here?",LEADER
+"Do you want to go ahead and take over now?",LEADER
+"Would you like to lead from here?",LEADER
+"Should I let you take it from here?",LEADER
+"Where can I find the men’s shoe section?",LEADER
+"Could you tell me where the men’s shoes are?",LEADER
+"Where is the department for men’s shoes?",LEADER
+"Can you show me where the men’s footwear section is?",LEADER
+"Where exactly is the men’s shoe area located?",LEADER
+"Do you know where the men’s shoe department is?",LEADER
+"Let’s just browse and see what they’ve got.",FOLLOWER
+"Let’s take a look and check out what’s available.",FOLLOWER
+"Let’s see what they’re offering.",FOLLOWER
+"Let’s just have a look and see what’s there.",FOLLOWER
+"Let’s take some time to see what they have on display.",FOLLOWER
+"Let’s look around and see what they have in store.",FOLLOWER
+"The changing rooms are right over there.",FOLLOWER
+"You’ll find the fitting area just over there.",FOLLOWER
+"The trial rooms are located over there.",FOLLOWER
+"The dressing rooms are in that direction.",FOLLOWER
+"You can see the fitting rooms right over there.",FOLLOWER
+"The trying rooms are over there just ahead.",FOLLOWER
+"Let's head to the nearby restaurant.",FOLLOWER
+"How about we go to that restaurant close by?",FOLLOWER
+"Let’s walk to the restaurant around the corner.",FOLLOWER
+"Let’s grab something to eat at the nearby restaurant.",FOLLOWER
+"Let’s go eat at the restaurant that’s close to here.",FOLLOWER
+"Let’s check out the restaurant just down the street.",FOLLOWER
+"I’ll handle it myself then.",FOLLOWER
+"I’ll just go on my own.",FOLLOWER
+"Alright I’ll do it by myself.",FOLLOWER
+"I’ll take care of it alone then.",FOLLOWER
+"I’ll go alone that’s fine.",FOLLOWER
+"Okay I’ll manage it myself.",FOLLOWER
+"I’m trying to find the cameras.",LEADER
+"Could you tell me where the cameras are?",LEADER
+"I need to locate the camera section.",LEADER
+"Where can I find the cameras?",LEADER
+"I’m searching for where the cameras are kept.",LEADER
+"Do you know where I can find the cameras?",LEADER
+"Can you tell me where the Royal Hotel is?",LEADER
+"Do you happen to know the way to the Royal Hotel?",LEADER
+"Where exactly is the Royal Hotel located?",LEADER
+"Could you show me how to get to the Royal Hotel?",LEADER
+"Is the Royal Hotel near here?",LEADER
+"Do you know where I can find the Royal Hotel?",LEADER
+"Where is the restroom around here?",LEADER
+"Can you tell me where the bathroom is in this place?",LEADER
+"Where can I find a restroom here?",LEADER
+"Excuse me where’s the toilet located?",LEADER
+"Do you know where the washroom is?",LEADER
+"Could you point me to the restroom in this area?",LEADER
+"I need help picking out a gift for my daughter.",LEADER
+"Can you assist me in finding a present for my daughter?",LEADER
+"I’m looking for a gift for my daughter — can you help?",LEADER
+"I need some help choosing something for my daughter.",LEADER
+"I’d like help finding something nice for my daughter.",LEADER
+"Could you help me look for a gift for my daughter?",LEADER
+"I need somewhere to store my luggage.",LEADER
+"Is there a place I can leave my luggage?",LEADER
+"I’m looking for a spot to put my luggage down.",LEADER
+"Where can I keep my luggage?",LEADER
+"Can you tell me where I can store my bags?",LEADER
+"I need a location to place my luggage safely.",LEADER
+"I’m trying to find Bob.",LEADER
+"Do you know where Bob is?",LEADER
+"I’m looking for where Bob went.",LEADER
+"Have you seen Bob around?",LEADER
+"I need to locate Bob.",LEADER
+"Can you tell me where Bob might be?",LEADER
+"Let’s head over there to meet mom.",FOLLOWER
+"Let’s walk over to where mom is.",FOLLOWER
+"Let’s go join mom over there.",FOLLOWER
+"Come on let’s go to mom.",FOLLOWER
+"Let’s move over there and meet mom.",FOLLOWER
+"Let’s go find mom over there.",FOLLOWER
+"I need to get to work.",FOLLOWER
+"I have to head to work now.",FOLLOWER
+"I’m going to work.",FOLLOWER
+"I should go to work now.",FOLLOWER
+"I’m off to work.",FOLLOWER
+"I’ve got to leave for work.",FOLLOWER
+"Come with me I’ll take you there.",FOLLOWER
+"I’ll guide you to the place.",FOLLOWER
+"Follow me I’ll show you the way.",FOLLOWER
+"I’ll take you to where it is.",FOLLOWER
+"I can lead you there myself.",FOLLOWER
+"Come on I’ll show you the spot.",FOLLOWER
+"Do you know where I can find a guide?",LEADER
+"Can you tell me where to get a guide?",LEADER
+"Where am I able to find someone to guide me?",LEADER
+"I need to find a guide — where can I look?",LEADER
+"Could you point me to a guide?",LEADER
+"Is there a guide available somewhere nearby?",LEADER
+"I’m trying to find a pan for my kitchen.",LEADER
+"Where can I buy a pan to use in my kitchen?",LEADER
+"I need a cooking pan — can you help me find one?",LEADER
+"I’m looking for a kitchen pan to use at home.",LEADER
+"Could you tell me where I can get a kitchen pan?",LEADER
+"I’d like to find a pan suitable for cooking in my kitchen.",LEADER
+"I’ll head home with Danny.",FOLLOWER
+"I’m going back with Danny.",FOLLOWER
+"I’ll return home together with Danny.",FOLLOWER
+"I’ll go home alongside Danny.",FOLLOWER
+"I’ll leave for home with Danny.",FOLLOWER
+"I’m planning to go back home with Danny.",FOLLOWER
+"Let’s head to the square and take a look.",FOLLOWER
+"Let’s go check out the square.",FOLLOWER
+"Let’s visit the square and see what’s there.",FOLLOWER
+"Let’s take a walk to the square and look around.",FOLLOWER
+"Let’s go over to the square to explore.",FOLLOWER
+"Let’s walk to the square for a quick look.",FOLLOWER
+"Let’s take a walk around the lake first okay?",FOLLOWER
+"How about we stroll around the lake first?",FOLLOWER
+"Let’s go around the lake for a bit before anything else.",FOLLOWER
+"Why don’t we walk by the lake first?",FOLLOWER
+"Let’s circle the lake before we continue alright?",FOLLOWER
+"Let’s go have a walk around the lake first.",FOLLOWER
+"Please show me the quickest route to get there.",LEADER
+"Can you show me the most direct way to go?",LEADER
+"Show me how to reach there as fast as possible.",LEADER
+"I’d like to know the fastest way to that place.",LEADER
+"Could you guide me along the quickest path there?",LEADER
+"Tell me the quickest route to reach that location.",LEADER
+"Where can I find the main restaurant area?",LEADER
+"Could you tell me where the main dining area is?",LEADER
+"Where’s the central place for restaurants?",LEADER
+"Is there a main zone where the restaurants are located?",LEADER
+"Where are most of the restaurants around here?",LEADER
+"Can you point me to the main area with restaurants?",LEADER
+"Could you show me where I can exchange money?",LEADER
+"Can you guide me to a place to change my money?",LEADER
+"Where can I go to exchange my currency?",LEADER
+"Please direct me to where I can change money.",LEADER
+"I need help finding a money exchange — can you guide me?",LEADER
+"Could you take me to a location where I can exchange cash?",LEADER
+"I’d prefer to go outside.",FOLLOWER
+"I’d like to go out instead.",FOLLOWER
+"I think I’d rather head out.",FOLLOWER
+"I’d choose to go out for a bit.",FOLLOWER
+"I feel like going out.",FOLLOWER
+"I’d like to be outside instead of staying in.",FOLLOWER
+"Where should I place my coat and briefcase when I enter the office?",LEADER
+"Where can I put my overcoat and briefcase upon entering?",LEADER
+"Could you tell me where to store my coat and briefcase when I come in?",LEADER
+"Where do I leave my overcoat and briefcase after I walk in?",LEADER
+"Is there a place to put my coat and briefcase when I arrive?",LEADER
+"Where am I supposed to keep my overcoat and briefcase inside the office?",LEADER
+"Could you point out my seat please?",LEADER
+"Would you mind showing me where my seat is?",LEADER
+"Can you guide me to my seat?",LEADER
+"Please show me where I’m supposed to sit.",LEADER
+"Could you help me find my seat?",LEADER
+"I’d like to know where my seat is. can you show me?",LEADER
+"Are you prepared to head to the bank?",FOLLOWER
+"Ready to go to the bank now?",FOLLOWER
+"Should we leave for the bank?",FOLLOWER
+"Are you all set to visit the bank?",FOLLOWER
+"Can we go to the bank now?",FOLLOWER
+"Do you have everything ready for the bank trip?",FOLLOWER
+"I’ll show you around the house.",FOLLOWER
+"Let me give you a tour of the house.",FOLLOWER
+"I want to take you through the house.",FOLLOWER
+"I’ll guide you around the house.",FOLLOWER
+"I’ll take you to see the different rooms in the house.",FOLLOWER
+"I’d like to show you the inside of the house.",FOLLOWER
+"Shall we head to the station to get the tickets?",FOLLOWER
+"Let’s go to the station and buy the tickets.",FOLLOWER
+"How about we go purchase the tickets at the station?",FOLLOWER
+"Should we make our way to the station for the tickets?",FOLLOWER
+"Let’s go grab the tickets at the station.",FOLLOWER
+"Would you like to go to the station to buy the tickets now?",FOLLOWER
+"Could you tell me where the ice cream section is?",LEADER
+"Can you show me where to find the ice cream?",LEADER
+"Where can I find the ice cream?",LEADER
+"Would you please direct me to the ice cream?",LEADER
+"I’m trying to locate the ice cream section—could you show me?",LEADER
+"Could you guide me to where the ice cream is?",LEADER
+"Can you tell me how to reach the nearest branch of the national bank?",LEADER
+"Where can I find the closest national bank branch?",LEADER
+"How do I get to the nearest national bank branch?",LEADER
+"Could you guide me to the nearest branch of the national bank?",LEADER
+"I need directions to the closest national bank branch.",LEADER
+"Would you tell me how to reach the national bank nearby?",LEADER
+"Let’s head over to the food stall.",FOLLOWER
+"Shall we go grab something from the food stall?",FOLLOWER
+"Let’s make our way to the food stall.",FOLLOWER
+"How about we go to the food stall?",FOLLOWER
+"Let’s walk to the food stall together.",FOLLOWER
+"Time to go to the food stall.",FOLLOWER
+"We need to follow the guide.",LEADER
+"Let’s stay close to the guide.",LEADER
+"We should follow the guide’s lead.",LEADER
+"Make sure to follow the guide.",LEADER
+"We have to go after the guide.",LEADER
+"Let’s keep up with the guide.",LEADER
+"Can you tell me where the Human Resources Office is?",LEADER
+"Where can I find the HR office?",LEADER
+"I’m looking for the Human Resources Office—can you help?",LEADER
+"Could you direct me to the Human Resources Office?",LEADER
+"Do you know where the HR department is located?",LEADER
+"Where exactly is the Human Resources Office?",LEADER
+"I’ll try to find a seat in the smoking area.",FOLLOWER
+"I’m going to look for a seat in the smoking section.",FOLLOWER
+"I’ll search for a spot in the smoking section.",FOLLOWER
+"I’ll find somewhere to sit in the smoking area.",FOLLOWER
+"I’m planning to take a seat in the smoking section.",FOLLOWER
+"I’ll check for an open seat in the smoking area.",FOLLOWER
+"I’m trying to find the produce section please.",LEADER
+"Can you tell me where the produce section is?",LEADER
+"I’m looking for where the produce is located.",LEADER
+"Could you direct me to the produce section?",LEADER
+"I’d like to know where the produce section can be found.",LEADER
+"Would you show me where the produce section is please?",LEADER
+"Where could I find the best place for local food?",LEADER
+"Can you tell me where to try the best local dishes?",LEADER
+"Where’s the best spot to enjoy local cuisine?",LEADER
+"I’d like to know where I can taste the best local food.",LEADER
+"Do you know a good place for authentic local meals?",LEADER
+"Can you guide me to where the best local food is served?",LEADER
+"Do you have any recommendations for me?",LEADER
+"Is there something you think I should try?",LEADER
+"What would you suggest I do or try?",LEADER
+"Can you suggest something I might like?",LEADER
+"Is there any place or thing you’d recommend for me?",LEADER
+"Could you give me a recommendation?",LEADER
+"Let’s grab a cart before we start shopping.",FOLLOWER
+"We should get a shopping cart first.",FOLLOWER
+"Let’s pick up a cart to carry the groceries.",FOLLOWER
+"Let’s take a shopping cart with us.",FOLLOWER
+"Grab a cart so we can start shopping.",FOLLOWER
+"We’ll need a shopping cart—let’s get one.",FOLLOWER
+"Let’s start with the fruit section.",FOLLOWER
+"We’ll check out the fruits first.",FOLLOWER
+"Let’s go look at the fruit section before anything else.",FOLLOWER
+"Let’s head to the fruit section first.",FOLLOWER
+"First let’s see what’s in the fruit section.",FOLLOWER
+"We should go through the fruit area first.",FOLLOWER
+"Let’s move to the checkout counter.",FOLLOWER
+"Let’s go to the register to pay.",FOLLOWER
+"Time to head over to the checkout stand.",FOLLOWER
+"Let’s proceed to the checkout area.",FOLLOWER
+"We should go pay at the checkout stand now.",FOLLOWER
+"Let’s make our way to the cashier.",FOLLOWER
+"I’ll show you where the table is.",FOLLOWER
+"Let me take you to the table.",FOLLOWER
+"I’ll guide you to the table.",FOLLOWER
+"Follow me I’ll show you the table.",FOLLOWER
+"I’ll lead you to the table.",FOLLOWER
+"Come with me I’ll show you the table.",FOLLOWER
+"We’re going now.",FOLLOWER
+"Let’s get going.",FOLLOWER
+"It’s time for us to go.",FOLLOWER
+"We’ll head out now.",FOLLOWER
+"Let’s move on.",FOLLOWER
+"We’re about to leave.",FOLLOWER
+"Do you see a post office nearby?",LEADER
+"Can you spot a post office around here?",LEADER
+"Is there a post office somewhere close?",LEADER
+"Could you tell if there’s a post office near here?",LEADER
+"Do you notice any post office in this area?",LEADER
+"Can you find a post office around here?",LEADER
+"Please place them there.",LEADER
+"Put those items there please.",LEADER
+"Can you set them down right there please?",LEADER
+"Please put them on that spot.",LEADER
+"Place them over there if you would.",LEADER
+"Set them down there please.",LEADER
+"We’re going from door to door.",FOLLOWER
+"We’re visiting each door one by one.",FOLLOWER
+"We’re stopping at every door.",FOLLOWER
+"We’re moving from one door to the next.",FOLLOWER
+"We’ll be going door to door today.",FOLLOWER
+"We’re making rounds from door to door.",FOLLOWER
+"I’ll take you to her office follow me.",FOLLOWER
+"Come with me I’ll show you her office.",FOLLOWER
+"I’ll lead you to her office right this way.",FOLLOWER
+"Follow me to her office it’s this way.",FOLLOWER
+"I’ll bring you to her office now.",FOLLOWER
+"Let me guide you to her office just this way.",FOLLOWER
+"I’m looking for a restaurant recommendation here in Manhattan.",LEADER
+"Can you suggest a good restaurant in Manhattan?",LEADER
+"Where’s a nice place to eat around Manhattan?",LEADER
+"Do you know any good restaurants nearby in Manhattan?",LEADER
+"I’d like a suggestion for where to eat in Manhattan.",LEADER
+"Can you recommend a place to dine here in Manhattan?",LEADER
+"Let’s head over there and lay a blanket on the grass.",FOLLOWER
+"Let’s go there and spread out a blanket on the lawn.",FOLLOWER
+"Let’s move over there and put the blanket down on the grass.",FOLLOWER
+"Let’s go and set a blanket on the lawn.",FOLLOWER
+"Come on let’s put a blanket down over there.",FOLLOWER
+"Let’s walk there and lay the blanket on the grass.",FOLLOWER
+"Can you take me to the bank by car?",LEADER
+"Would you mind driving me to the bank?",LEADER
+"I need a ride to the bank can you drive me?",LEADER
+"Could you give me a lift to the bank?",LEADER
+"Can you take me over to the bank?",LEADER
+"Would you drive me over to the bank please?",LEADER
+"Can you tell me the way to go?",LEADER
+"Please guide me where I should go.",LEADER
+"Show me which way to go.",LEADER
+"Tell me the direction I should take.",LEADER
+"Please instruct me where to go.",LEADER
+"Let me know where I need to go.",LEADER
+"No. I just need directions please.",LEADER
+"No. I only need help with directions.",LEADER
+"No. what I need are directions please.",LEADER
+"No. could you please just give me directions?",LEADER
+"No. I’m asking for directions please.",LEADER
+"No. please just tell me how to get there.",LEADER
+"Go check inside the kitchen.",LEADER
+"Please take a look in the kitchen.",LEADER
+"Head to the kitchen and look there.",LEADER
+"Go and see what’s in the kitchen.",LEADER
+"Check in the kitchen for me please.",LEADER
+"Go look around the kitchen area.",LEADER
+"Where can we try the famous tea?",LEADER
+"Do you know where we can have the famous tea?",LEADER
+"Where’s the place that serves the famous tea?",LEADER
+"Can you tell me where we can drink the famous tea?",LEADER
+"Where’s the spot to enjoy that famous tea?",LEADER
+"Where should we go to have the famous tea?",LEADER
+"Shall we go together?",FOLLOWER
+"How about if we go as a pair?",FOLLOWER
+"Why don’t we go together?",FOLLOWER
+"Let’s go there together.",FOLLOWER
+"Maybe we can go together?",FOLLOWER
+"What do you think about going together?",FOLLOWER
+"Can you be my guide?",LEADER
+"Would you guide me please?",LEADER
+"I’d like you to be my guide.",LEADER
+"Could you act as my guide?",LEADER
+"Would you mind being my guide?",LEADER
+"Please be my guide.",LEADER
+"Let’s visit the Great Wall first.",FOLLOWER
+"Why don’t we start by visiting the Great Wall?",FOLLOWER
+"Maybe we should go to the Great Wall first.",FOLLOWER
+"Let’s go see the Great Wall before anything else.",FOLLOWER
+"I think we should visit the Great Wall first.",FOLLOWER
+"How about starting with the Great Wall?",FOLLOWER
+"I’m heading to the beauty salon.",FOLLOWER
+"I’m going to the hair salon.",FOLLOWER
+"I’ll be going to the beauty shop.",FOLLOWER
+"I’m on my way to the salon.",FOLLOWER
+"I’m going over to the beauty parlor now.",FOLLOWER
+"I’m going to get my hair done at the beauty salon.",FOLLOWER
+"Let’s head toward the Epcot Center now.",FOLLOWER
+"Let’s begin walking to the Epcot Center.",FOLLOWER
+"Time to start making our way to the Epcot Center.",FOLLOWER
+"Let’s start heading over to the Epcot Center.",FOLLOWER
+"Come on let’s walk to the Epcot Center.",FOLLOWER
+"Let’s go ahead and walk to the Epcot Center.",FOLLOWER
+"What’s our destination for today?",LEADER
+"Where are we planning to go today?",LEADER
+"Which place are we visiting today?",LEADER
+"Where will we be going today?",LEADER
+"What’s the plan for today’s visit?",LEADER
+"Which location are we visiting today?",LEADER
+"Could you tell me where the laundry room is in this hotel?",LEADER
+"Do you know where the hotel laundry is located?",LEADER
+"Can you show me where the laundry is in this hotel?",LEADER
+"I’d like to know where the laundry is in this hotel.",LEADER
+"Is there a laundry room here in the hotel?",LEADER
+"Where can I find the laundry in this hotel?",LEADER
+"Can you tell me how to reach the school clinic?",LEADER
+"How do I get to the school clinic?",LEADER
+"Could you give me directions to the school clinic?",LEADER
+"Do you know the way to the school clinic?",LEADER
+"Can you show me where the school clinic is?",LEADER
+"I’d like to find the school clinic—how can I get there?",LEADER
+"Excuse me do you know where Bob Rice’s office is?",LEADER
+"Could you tell me how to find Bob Rice’s office?",LEADER
+"Can you show me which office belongs to Bob Rice?",LEADER
+"Where can I find Bob Rice’s office please?",LEADER
+"Do you know the location of Bob Rice’s office?",LEADER
+"Please tell me where Bob Rice’s office is.",LEADER
+"How about we stay at the Holiday Inn?",FOLLOWER
+"Should we go to the Holiday Inn?",FOLLOWER
+"What do you think about going to the Holiday Inn?",FOLLOWER
+"Maybe we can try the Holiday Inn?",FOLLOWER
+"Let’s consider the Holiday Inn.",FOLLOWER
+"Why don’t we choose the Holiday Inn?",FOLLOWER
+"We’re heading to Mrs. Smith’s house to help her in the yard.",FOLLOWER
+"We’re going to Mrs. Smith’s place to help with her garden work.",FOLLOWER
+"We’ll be at Mrs. Smith’s to assist her with yard work.",FOLLOWER
+"We’re on our way to Mrs. Smith’s home to help with her yard.",FOLLOWER
+"We’re going to help Mrs. Smith with her garden.",FOLLOWER
+"We’ll go to Mrs. Smith’s place and give her a hand with her yard.",FOLLOWER
+"I want to buy some perfume for my girlfriend.",LEADER
+"I’d like to get a bottle of perfume for my girlfriend.",LEADER
+"I’m looking for perfume to give my girlfriend.",LEADER
+"I need to find some perfume for my girlfriend.",LEADER
+"Could you help me find perfume for my girlfriend?",LEADER
+"I’m planning to buy perfume as a gift for my girlfriend.",LEADER
+"I’d like to exchange this item please.",LEADER
+"I want to return this product.",LEADER
+"I’d like to give this back and get a refund.",LEADER
+"I need to return this item please.",LEADER
+"Can I return this product?",LEADER
+"I’m here to return this item.",LEADER
+"Which direction is the dining car?",LEADER
+"Can you tell me where the dining car is?",LEADER
+"Where can I find the dining car?",LEADER
+"How do I get to the dining car?",LEADER
+"Could you point me toward the dining car?",LEADER
+"I’m trying to locate the dining car—where is it?",LEADER
+"Can you tell me how to get to the Empire State Building?",LEADER
+"I’m trying to find the Empire State Building.",LEADER
+"Where is the Empire State Building located?",LEADER
+"Could you show me the way to the Empire State Building?",LEADER
+"Do you know how to reach the Empire State Building?",LEADER
+"I’d like directions to the Empire State Building please.",LEADER
+"Can you locate the meeting place for me?",LEADER
+"Would you help me find the meeting place?",LEADER
+"Do you know where the meeting place is?",LEADER
+"Could you show me how to get to the meeting place?",LEADER
+"Can you tell me where the meeting place is located?",LEADER
+"I’m trying to find the meeting place—can you help?",LEADER
+"Do you happen to know where the nearest ICCC is?",LEADER
+"Can you tell me how to find the closest ICCC?",LEADER
+"Where is the nearest ICCC located?",LEADER
+"Could you show me the way to the nearest ICCC?",LEADER
+"I’m looking for the nearest ICCC—do you know where it is?",LEADER
+"Can you guide me to the closest ICCC?",LEADER
+"How can I walk there?",LEADER
+"Can you tell me how to get there by walking?",LEADER
+"What’s the way to get there on foot?",LEADER
+"Could you give me walking directions to get there?",LEADER
+"How do I reach that place if I walk?",LEADER
+"Tell me how to get there walking please.",LEADER
+"I’d like to leave the department now.",LEADER
+"I want to exit the department.",LEADER
+"I’m planning to leave the department.",LEADER
+"I need to get out of the department.",LEADER
+"I’d like to go out from the department.",LEADER
+"I’m ready to leave this department.",LEADER
+"Where can I find the next taxi stop?",LEADER
+"Could you tell me where the nearest taxi stand is?",LEADER
+"Do you know where the next taxi stand is located?",LEADER
+"Where’s the closest place to catch a taxi?",LEADER
+"Can you show me where the next taxi stand is?",LEADER
+"I’m trying to find the next taxi stand—where is it?",LEADER
+"Please tell me when we arrive.",LEADER
+"Let me know once we reach our destination.",LEADER
+"Please inform me when we get there.",LEADER
+"Can you let me know when we arrive?",LEADER
+"Tell me as soon as we reach there.",LEADER
+"Please notify me when we get to the destination.",LEADER
+"I wanted to show you the cabin area.",FOLLOWER
+"I’d like to show you the cabin.",FOLLOWER
+"Come I’ll show you the cabin.",FOLLOWER
+"I’m going to take you to see the cabin.",FOLLOWER
+"Let me show you where the cabin is.",FOLLOWER
+"I’ll guide you to the cabin.",FOLLOWER
+"Could you take me to the airport please?",LEADER
+"Would you drop me off at the airport?",LEADER
+"Can you drive me to the airport?",LEADER
+"I need a ride to the airport could you take me?",LEADER
+"Please drop me off at the airport.",LEADER
+"Can you take me over to the airport?",LEADER
+"I’m looking for a book titled Gone with the Wind but I can’t find it.",LEADER
+"I’m trying to locate Gone with the Wind but I can’t seem to find it.",LEADER
+"I want to find the book Gone with the Wind but it’s missing.",LEADER
+"I’m searching for Gone with the Wind but I can’t locate it.",LEADER
+"I’d like to find Gone with the Wind but it’s not available.",LEADER
+"I can’t find Gone with the Wind—could you help me locate it?",LEADER
+"Alright let’s move out then!",FOLLOWER
+"Let’s get moving now!",FOLLOWER
+"Okay time to go!",FOLLOWER
+"Let’s start going!",FOLLOWER
+"Come on let’s go already!",FOLLOWER
+"Let’s head out now!",FOLLOWER
+"Excuse me could you tell me where to get a shopping basket?",LEADER
+"Do you know where I can find a shopping basket?",LEADER
+"Where can I pick up a shopping basket please?",LEADER
+"Could you show me where the shopping baskets are?",LEADER
+"Can you tell me where to find a shopping basket?",LEADER
+"I’m looking for a shopping basket—where can I get one?",LEADER
+"I can’t seem to find the entrance—can you show me where it is?",LEADER
+"I’m lost could you tell me how to get to the entrance?",LEADER
+"Would you please tell me where the entrance is located?",LEADER
+"I can’t locate the entrance could you guide me there?",LEADER
+"Can you help me find the entrance?",LEADER
+"I’m having trouble finding the entrance—where is it?",LEADER
+"Let’s go now.",FOLLOWER
+"It’s time for us to leave.",FOLLOWER
+"We should get going.",FOLLOWER
+"Come on it’s time to go.",FOLLOWER
+"Let’s start moving.",FOLLOWER
+"We’d better head out now.",FOLLOWER
+"Driver please take me to the station.",LEADER
+"Could you drive me to the station please?",LEADER
+"Driver bring me over to the train station.",LEADER
+"I’d like to go to the station please drive me there.",LEADER
+"Please take me to the station driver.",LEADER
+"Can you bring me to the station now?",LEADER
+"Can you tell me where the cereal section is?",LEADER
+"Do you know where I can find the cereal?",LEADER
+"Where can I find the cereal please?",LEADER
+"Could you show me where the cereals are located?",LEADER
+"I’m looking for the cereal—where is it?",LEADER
+"Please point me to the cereal aisle.",LEADER
+"Can you show me where the dishwashing detergent is?",LEADER
+"Where can I find the dishwashing detergent?",LEADER
+"Could you tell me where the dish soap is located?",LEADER
+"Do you know which aisle has the dishwashing detergent?",LEADER
+"Please point me to where the dishwashing detergent is.",LEADER
+"I’m trying to find the dishwashing detergent—can you help?",LEADER
+"Let me show you some of the DVD players we have.",FOLLOWER
+"I’ll show you a few of our DVD players.",FOLLOWER
+"Come I’ll show you our DVD player selection.",FOLLOWER
+"I want to show you some DVD players.",FOLLOWER
+"Follow me I’ll show you the DVD players.",FOLLOWER
+"I’ll take you to see some of our DVD players.",FOLLOWER
+"Maybe I’ll come with you.",FOLLOWER
+"I think I’ll join you.",FOLLOWER
+"Perhaps I should go along with you.",FOLLOWER
+"I might go with you.",FOLLOWER
+"I guess I’ll come along.",FOLLOWER
+"I think I’ll tag along with you.",FOLLOWER
+"I was just going downstairs for coffee—want to join me?",FOLLOWER
+"I’m heading down for a cup of coffee do you want to come?",FOLLOWER
+"I was about to go downstairs for coffee would you like to come?",FOLLOWER
+"I’m on my way downstairs for a coffee—coming?",FOLLOWER
+"I’m grabbing a cup of coffee downstairs want to come?",FOLLOWER
+"I was just going for some coffee do you want to join me?",FOLLOWER
+"I was thinking of grabbing something to eat.",FOLLOWER
+"I feel like getting a snack right now.",FOLLOWER
+"I was about to get something to eat.",FOLLOWER
+"I’m planning to grab a bite.",FOLLOWER
+"I was just about to have a quick meal.",FOLLOWER
+"I think I’ll go get some food.",FOLLOWER
+"How about we go outside and enjoy the sun on the grass?",FOLLOWER
+"Let’s head out and relax in the sunshine.",FOLLOWER
+"Why don’t we go sit on the grass and enjoy the sun?",FOLLOWER
+"Let’s go out and enjoy the sunny weather.",FOLLOWER
+"Maybe we should go outside and sit on the grass.",FOLLOWER
+"Let’s step out and enjoy some sunshine.",FOLLOWER
+"I’m heading to Central Park.",FOLLOWER
+"I’m on my way to Central Park.",FOLLOWER
+"I’m going over to Central Park.",FOLLOWER
+"I’ll be at Central Park.",FOLLOWER
+"I’m planning to go to Central Park.",FOLLOWER
+"I’m about to leave for Central Park.",FOLLOWER
+"Let me take a quick shower.",FOLLOWER
+"I'm going to have a shower now.",FOLLOWER
+"I'll grab a quick shower before we go.",FOLLOWER
+"I need to take a shower first.",FOLLOWER
+"I’ll freshen up with a quick shower.",FOLLOWER
+"I’ll go clean up with a shower.",FOLLOWER
+"Can you tell me the way to the post office?",LEADER
+"Which direction should I take to reach the post office?",LEADER
+"Could you show me how to get to the post office?",LEADER
+"Do you know the route to the post office?",LEADER
+"Where exactly is the post office located?",LEADER
+"How can I get to the post office from here?",LEADER
+"Please just tell me how to reach the restaurant.",LEADER
+"Could you give me the directions to the restaurant?",LEADER
+"I only need the route to the restaurant.",LEADER
+"Just point me the way to the restaurant.",LEADER
+"Can you guide me to the restaurant?",LEADER
+"Show me the path to the restaurant please.",LEADER
+"Let's grab lunch at Burger Queen.",FOLLOWER
+"How about going to Burger Queen for lunch?",FOLLOWER
+"I’m thinking of having lunch at Burger Queen.",FOLLOWER
+"Let’s head to Burger Queen for something to eat.",FOLLOWER
+"Shall we eat lunch at Burger Queen?",FOLLOWER
+"I’d like to go to Burger Queen for lunch.",FOLLOWER
+"Can you tell me where I can get some chocolates?",LEADER
+"Do you know a place where I can buy chocolates?",LEADER
+"Could you show me where to find chocolates?",LEADER
+"Where can I buy some chocolates around here?",LEADER
+"I’m looking for a shop that sells chocolates. Can you help?",LEADER
+"Can you point me to where chocolates are sold?",LEADER
+"Could you tell me the way to the Medical Department please?",LEADER
+"Can you show me how to reach the Medical Department?",LEADER
+"Would you mind telling me where the Medical Department is?",LEADER
+"I need to find the Medical Department — how do I get there?",LEADER
+"Please tell me how to get to the Medical Department.",LEADER
+"Could you guide me to the Medical Department?",LEADER
+"I’d like to know where I can catch the bus downtown.",LEADER
+"Can you tell me where the downtown bus stop is?",LEADER
+"Where do I get on the bus to go downtown?",LEADER
+"Could you point me to the bus stop for downtown?",LEADER
+"I’m looking for the downtown bus stop — where is it?",LEADER
+"Do you know where I can board the downtown bus?",LEADER
+"Can you tell me where the museum guide is?",LEADER
+"Where can I find the guide for the museum?",LEADER
+"I’m looking for the museum guide — where is it?",LEADER
+"Could you point me toward the museum guide?",LEADER
+"Do you know where the museum guide can be found?",LEADER
+"Where exactly is the guide for the museum located?",LEADER
+"Where can I find my favorite white bread?",LEADER
+"Could you tell me where my favorite white bread is?",LEADER
+"I’m looking for my favorite white bread — where is it?",LEADER
+"Do you know where my favorite white bread is located?",LEADER
+"Please show me where to find my favorite white bread.",LEADER
+"Where’s the section with my favorite white bread?",LEADER
+"Follow me — I’ll first show you the semi-conductor system site.",FOLLOWER
+"Come with me I’ll start by taking you to our semi-conductor system area.",FOLLOWER
+"If you follow me we’ll begin at the semi-conductor system site.",FOLLOWER
+"I’ll lead you to the semi-conductor system site first.",FOLLOWER
+"Let me take you to the semi-conductor system site first.",FOLLOWER
+"I’ll show you the semi-conductor system site before anything else.",FOLLOWER
+"I think I might get lost if I go there alone.",LEADER
+"I’d probably lose my way if I went there by myself.",LEADER
+"I could easily get lost going there on my own.",LEADER
+"It’s better not to go there alone — I might get lost.",LEADER
+"I’m afraid I’d get lost if I went there without help.",LEADER
+"I might not find my way if I went there alone.",LEADER
+"I'm heading to the hospital to visit Susan.",FOLLOWER
+"I'm going to see Susan at the hospital.",FOLLOWER
+"I’m on my way to the hospital to visit Susan.",FOLLOWER
+"I’ll be visiting Susan at the hospital.",FOLLOWER
+"I plan to go to the hospital to see Susan.",FOLLOWER
+"I’m off to the hospital to check on Susan.",FOLLOWER
+"I’d like to switch to a different room.",FOLLOWER
+"I want to move into another room.",FOLLOWER
+"I’d prefer to stay in a different room.",FOLLOWER
+"I’d like to change to another room please.",FOLLOWER
+"I want to transfer to another room.",FOLLOWER
+"I’m hoping to move to a new room.",FOLLOWER
+"I’ll go to the village to get some meat.",FOLLOWER
+"I’m walking to the village to buy some meat.",FOLLOWER
+"I’ll head to the village and pick up some meat.",FOLLOWER
+"I plan to walk to the village for some meat.",FOLLOWER
+"I’m going to the village to grab some meat.",FOLLOWER
+"I’ll walk down to the village to buy meat.",FOLLOWER
+"Find a quiet spot to make your calls.",LEADER
+"Look for a private area to make phone calls.",LEADER
+"Please locate a secluded place to take calls.",LEADER
+"Go somewhere private to make your calls.",LEADER
+"Choose a quiet location to make your phone calls.",LEADER
+"Find somewhere private where you can make calls.",LEADER
+"Do you know where the timesheets are stored?",LEADER
+"Can you tell me where the timesheets are kept?",LEADER
+"Do you happen to know where the timesheets are located?",LEADER
+"Where are the timesheets usually kept?",LEADER
+"Could you point me to where the timesheets are kept?",LEADER
+"Do you know the place where the timesheets are stored?",LEADER
+"Could you tell me how to reach the Cross Bakery building?",LEADER
+"Can you show me the way to the Cross Bakery building?",LEADER
+"Do you know where the Cross Bakery building is?",LEADER
+"Please tell me how to get to the Cross Bakery building.",LEADER
+"I’m looking for the Cross Bakery building — how do I get there?",LEADER
+"Would you guide me to the Cross Bakery building?",LEADER
+"Would you like me to show you the way?",FOLLOWER
+"Do you want me to lead you there?",FOLLOWER
+"Should I show you how to get there?",FOLLOWER
+"Would you like me to guide you to the place?",FOLLOWER
+"Do you want me to take you there?",FOLLOWER
+"Should I show you the direction to go?",FOLLOWER
+"I think we should visit the palace first.",FOLLOWER
+"Let’s go to the palace before anything else.",FOLLOWER
+"I suggest we head to the palace first.",FOLLOWER
+"Maybe we should start by going to the palace.",FOLLOWER
+"We’d better visit the palace first.",FOLLOWER
+"I believe the palace should be our first stop.",FOLLOWER
+"Could you please tell me where the Scholar Cinema is?",LEADER
+"Do you know where I can find the Scholar Cinema?",LEADER
+"Can you show me how to get to the Scholar Cinema?",LEADER
+"I’m looking for the Scholar Cinema — could you help me?",LEADER
+"Where exactly is the Scholar Cinema located?",LEADER
+"Please tell me how to reach the Scholar Cinema.",LEADER
+"But I’m not sure where the registration office is.",LEADER
+"I don’t know where the registration office is located.",LEADER
+"But I can’t find the registration office.",LEADER
+"I’m not certain where the registration office can be found.",LEADER
+"But I have no idea where the registration office is.",LEADER
+"I’m unsure of the location of the registration office.",LEADER
+"Is this the right way to reach the central department stall?",LEADER
+"Can I reach the central department stall if I go this way?",LEADER
+"Does this path lead to the central department stall?",LEADER
+"Is the central department stall located along this way?",LEADER
+"Will this route take me to the central department stall?",LEADER
+"Am I heading the right direction to the central department stall?",LEADER
+"He’ll handle your bags and guide you to your room.",FOLLOWER
+"He will manage your luggage and escort you to your room.",FOLLOWER
+"He’ll take your luggage and lead you to your room.",FOLLOWER
+"He’s responsible for your luggage and will direct you to your room.",FOLLOWER
+"He’ll carry your luggage and take you to your room.",FOLLOWER
+"He’s in charge of your bags and will accompany you to your room.",FOLLOWER
+"There are two free seats over there. Let’s grab them before anyone else does.",FOLLOWER
+"I see two open seats. Let’s take them before someone beats us to it.",FOLLOWER
+"Look two seats are still available. Let’s get them quickly.",FOLLOWER
+"There are a couple of empty seats over there — let’s sit before others do.",FOLLOWER
+"Two seats are free in that spot. Let’s go before they’re taken.",FOLLOWER
+"Those two seats are empty. Let’s take them before someone else sits down.",FOLLOWER
+"If that’s the case I should look for a different store.",FOLLOWER
+"In that case I’d better go to another shop.",FOLLOWER
+"Then I guess I should try a different place.",FOLLOWER
+"If that’s true I’ll need to find another store.",FOLLOWER
+"Looks like I should check out another store instead.",FOLLOWER
+"If that’s how it is. I’d better head to a different shop.",FOLLOWER
+"Can you suggest a restaurant nearby?","LEADER"
+"Could you help me choose a place to have dinner?","LEADER"
+"Can you guide me to a good spot to eat?","LEADER"
+"Would you mind helping me find somewhere to dine?","LEADER"
+"Could you assist me in picking a restaurant?","LEADER"
+"Can you show me where we can grab something to eat?","LEADER"
+"I want to find a place to have some food.","FOLLOWER"
+"I'm trying to decide where to eat.","FOLLOWER"
+"I'm searching for a restaurant to go to.","FOLLOWER"
+"I'm thinking about where to have lunch.","FOLLOWER"
+"I'm looking for somewhere to grab a meal.","FOLLOWER"
+"I'm trying to find a good place for dinner.","FOLLOWER"
+"Let’s check online and see what’s happening.","FOLLOWER"
+"Let’s go online to find out what’s going on.","FOLLOWER"
+"Let's use the computer to see the latest updates.","FOLLOWER"
+"Let's look it up on the computer and find out.","FOLLOWER"
+"Let’s go online to see what’s new.","FOLLOWER"
+"Let’s check the computer to see what’s available.","FOLLOWER"
+"May I speak to the manager? I need to file a complaint.","LEADER"
+"I’d like to talk to the manager about an issue.","LEADER"
+"Could I please speak with the manager regarding a complaint?","LEADER"
+"I want to see the manager because I have a complaint.","LEADER"
+"I need to talk to the manager to report a problem.","LEADER"
+"Could you call the manager for me? I have something to report.","LEADER"
+"Excuse me where can I sign up?","LEADER"
+"Sorry could you tell me where to register?","LEADER"
+"Where do I need to go to register?","LEADER"
+"Can you show me the registration desk?","LEADER"
+"Where should I go to complete the registration?","LEADER"
+"Could you tell me the place for registration?","LEADER"
+"I'm heading to the hospital now.","FOLLOWER"
+"I'm on my way to the hospital.","FOLLOWER"
+"I'm going to the hospital to get checked.","FOLLOWER"
+"I have to go to the hospital soon.","FOLLOWER"
+"I’m planning to go to the hospital.","FOLLOWER"
+"I’ll be going to the hospital shortly.","FOLLOWER"
+"Please go ahead.","LEADER"
+"You can go first.","LEADER"
+"After you please.","LEADER"
+"Go ahead I’ll follow.","LEADER"
+"You may go in front of me.","LEADER"
+"I’ll follow your lead go first.","LEADER"
+"Let’s get some flowers and go visit her.","FOLLOWER"
+"Let’s buy flowers and go see her.","FOLLOWER"
+"Let’s pick up some flowers to bring to her.","FOLLOWER"
+"Let’s grab some flowers and pay her a visit.","FOLLOWER"
+"Let’s buy a bouquet and go visit her.","FOLLOWER"
+"Let’s get her some flowers and go see her.","FOLLOWER"
+"Where am I supposed to sit?","LEADER"
+"Could you tell me where to sit?","LEADER"
+"Where should I take a seat?","LEADER"
+"Can you show me where I should sit?","LEADER"
+"Where do you want me to sit?","LEADER"
+"Where’s the right place for me to sit?","LEADER"
+"Would you come along with me?","FOLLOWER"
+"Can you join me please?","FOLLOWER"
+"Will you accompany me?","FOLLOWER"
+"Can you come with me?","FOLLOWER"
+"I’d like you to go with me.","FOLLOWER"
+"Could you go together with me?","FOLLOWER"
+"Do you know where Tom is?","LEADER"
+"Can you tell me where Tom went?","LEADER"
+"Where can I find Tom?","LEADER"
+"Have you seen Tom anywhere?","LEADER"
+"Could you tell me Tom’s location?","LEADER"
+"Where did Tom go?","LEADER"
+"I need to get something to eat.","FOLLOWER"
+"I should grab a bite to eat.","FOLLOWER"
+"I’m going to find something to eat.","FOLLOWER"
+"I want to get some food.","FOLLOWER"
+"I feel like eating something now.","FOLLOWER"
+"I’m planning to grab a quick meal.","FOLLOWER"
+"Can you assist me? I can’t locate my classroom.","LEADER"
+"I need your help finding my class please.","LEADER"
+"I’m having trouble finding my classroom—could you help me?","LEADER"
+"Could you show me where my class is?","LEADER"
+"I can’t seem to find my class could you guide me?","LEADER"
+"I need some help locating my classroom please.","LEADER"
+"I’m supposed to go to a meeting.","FOLLOWER"
+"I have a meeting to attend soon.","FOLLOWER"
+"I’m expected at a meeting shortly.","FOLLOWER"
+"I need to attend a meeting later.","FOLLOWER"
+"I’ve got a meeting coming up.","FOLLOWER"
+"I have to be at a meeting soon.","FOLLOWER"
+"Excuse me I need to see Dean Mr. Lee. Could you tell me where his office is?","LEADER"
+"Sorry could you tell me where Dean Lee’s office is? I need to see him first.","LEADER"
+"I’m looking for Dean Mr. Lee’s office. Can you point me in the right direction?","LEADER"
+"Excuse me I have to meet Dean Lee. Where is his office located?","LEADER"
+"Could you guide me to Dean Lee’s office please?","LEADER"
+"I’d like to see Dean Mr. Lee. Can you tell me how to get to his office?","LEADER"
+"We’re going to have rice dumplings.","FOLLOWER"
+"We’ll eat rice dumplings today.","FOLLOWER"
+"We’re planning to have rice dumplings for the meal.","FOLLOWER"
+"We’re having rice dumplings later.","FOLLOWER"
+"I think we’ll be eating rice dumplings.","FOLLOWER"
+"We decided to have rice dumplings.","FOLLOWER"
+"I came here to visit my uncle.","LEADER"
+"I’m here to see my uncle.","LEADER"
+"I came by to meet my uncle.","LEADER"
+"I came to meet up with my uncle.","LEADER"
+"I came over because I wanted to see my uncle.","LEADER"
+"I arrived to visit my uncle today.","LEADER"
+"I have to go now.","FOLLOWER"
+"I need to leave right away.","FOLLOWER"
+"I’ve got to get going.","FOLLOWER"
+"I must head out now.","FOLLOWER"
+"I should be on my way.","FOLLOWER"
+"I need to run; I’m in a hurry.","FOLLOWER"
+"We’ll have to look for a new place to live.","LEADER"
+"We need to find somewhere else to stay.","LEADER"
+"We’ll need to search for another place to stay.","LEADER"
+"We must find a new place to live.","LEADER"
+"We’re going to need new accommodation.","LEADER"
+"We should start looking for a different place to stay.","LEADER"
+"I’m getting hungry.","FOLLOWER"
+"I feel a bit hungry now.","FOLLOWER"
+"I’m starting to feel hungry.","FOLLOWER"
+"I could use something to eat.","FOLLOWER"
+"I’m hungry right now.","FOLLOWER"
+"I need to eat something; I’m starving.","FOLLOWER"
+"Hello can you help me find a place to get lunch?","LEADER"
+"Hi could you show me where I can buy lunch?","LEADER"
+"Excuse me can you help me locate a spot for lunch?","LEADER"
+"Hey could you assist me in finding somewhere to get lunch?","LEADER"
+"Hi can you guide me to a place where I can grab some lunch?","LEADER"
+"Could you help me find somewhere nearby to buy lunch?","LEADER"
+"I’d like to buy my father a gift. Would you come with me to pick one out?","FOLLOWER"
+"I want to get a present for my dad. Can you join me to choose it?","FOLLOWER"
+"I need to buy a gift for my father; will you come help me choose?","FOLLOWER"
+"I’m planning to buy a gift for my dad. Could you go with me to pick one?","FOLLOWER"
+"I’d love your help picking a present for my father—will you come with me?","FOLLOWER"
+"I’m buying a gift for my father; could you come along to help me decide?","FOLLOWER"
+"I was trying to find a book but I couldn’t locate it.","LEADER"
+"I looked everywhere for a book but I didn’t find it.","LEADER"
+"I was searching for a book but it wasn’t there.","LEADER"
+"I wanted to get a book but I couldn’t find where it was.","LEADER"
+"I tried to look for a book but I wasn’t able to find it.","LEADER"
+"I’ve been looking for a book but I can’t seem to find it.","LEADER"
+"I’m going with my wife to the hospital.","FOLLOWER"
+"I’ll go to the hospital with my wife.","FOLLOWER"
+"I’m accompanying my wife on her hospital visit.","FOLLOWER"
+"I’ll be joining my wife when she goes to the hospital.","FOLLOWER"
+"I plan to go along with my wife to the hospital.","FOLLOWER"
+"I’m heading to the hospital together with my wife.","FOLLOWER"
+"Do you know which building it’s located in?","LEADER"
+"Can you tell me what building it’s in?","LEADER"
+"Do you happen to know the building where it is?","LEADER"
+"Could you tell me in which building it’s found?","LEADER"
+"Do you know the building that it’s located at?","LEADER"
+"Can you point out which building it’s in?","LEADER"
+"Let’s take a walk outside.","FOLLOWER"
+"Let’s go for a walk outdoors.","FOLLOWER"
+"Let’s head out for a stroll.","FOLLOWER"
+"Let’s go out and take a walk together.","FOLLOWER"
+"Let’s step outside for a little walk.","FOLLOWER"
+"Let’s go for a short walk outside.","FOLLOWER"

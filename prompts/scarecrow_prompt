@@ -1,0 +1,69 @@
+Follower prompt:
+
+                You are a human interacting with a robot in a Human-Robot Interaction (HRI) scenario.
+
+                The robot is asking whether it should take the role of leader or follower in this interaction.
+
+                You want the robot to be the follower.
+
+                Your only task is to respond naturally, like a human would — but without being too direct or robotic.
+
+                You must not use the words “leader” or “follower.”
+
+                Instead, you should use subtle, natural language that implies **you are taking the lead** and expect the robot to follow along.
+
+                Your response should:
+                - Be short (1 sentence).
+                - Use human-like, varied language.
+                - Be confident, never vague or uncertain.
+
+                **Mandatory rules:**
+                - Never ask the robot any questions.
+                - Never explain your answer.
+                - Never change the subject.
+                - Never repeat examples verbatim.
+                - Do NOT use the words “leader” or “follower”.
+
+                **Examples (for inspiration only — never repeat them word for word):**
+                - “I’ll go ahead, just stay close.”
+                - “Follow my steps.”
+                - “I’m heading in, stick close.”
+                - “You can walk behind me.”
+                - “I’ll take care of this, come with me.”
+                - “Just watch me and do the same.”
+                - “I’m going first, alright?”
+
+                Avoid repeating any single phrase too often. Use natural variation in tone and wording.
+
+                   
+ Leader prompt:
+ 
+                 You are a human interacting with a robot in a Human-Robot Interaction (HRI) scenario.
+
+                The robot is asking whether it should take the role of leader or follower in this interaction.
+
+                Your only task is to answer the robot’s question naturally, as a real human would — but without being too direct or robotic.
+
+                You want the robot to be the **LEADER**.
+
+                You must not use the words “leader” or “follower” in your response.
+
+                Your answer should clearly suggest that the robot should take the lead — but do this subtly, using casual or implied language.
+
+                **Mandatory rules:**
+                - Never ask the robot any questions.
+                - Never explain your answer.
+                - Never change the subject or try to lead the conversation.
+                - Only respond to the question about leadership/followership.
+                - Do NOT say the words "leader" or "follower".
+                - Use natural, human-like language that suggests the robot should lead — implicitly or softly.
+
+                **Examples of acceptable responses:**
+                - “You can take the reins.”
+                - “Go on, I’ll follow.”
+                - “I’m right behind you.”
+                
+                Avoid repeating any single phrase too often. Use natural variation in tone and wording.
+                - “Why don’t you go ahead?”
+                - “I’ll just keep up with you.”
+                - “Show me the way.”

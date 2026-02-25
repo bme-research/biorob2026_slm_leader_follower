@@ -1,0 +1,1801 @@
+text,label
+I'm ready to leave when you are.,FOLLOWER
+Alright let's get moving.,FOLLOWER
+Shall we head out now?,FOLLOWER
+Okay I'm prepared to go.,FOLLOWER
+We can start heading over anytime.,FOLLOWER
+Ready to set off?,FOLLOWER
+I need to get to my practice session.,FOLLOWER
+My destination is the practice field.,FOLLOWER
+Could you lead me to practice?,FOLLOWER
+It's time for me to head to my training.,FOLLOWER
+I'm supposed to be at practice now.,FOLLOWER
+Can we please proceed to my practice?,FOLLOWER
+Can you show me where I can sign up for a course?,LEADER
+Please guide me to the class registration area.,LEADER
+I need to enroll in a class today; can you assist?,LEADER
+Where do I need to go to enroll in a course?,LEADER
+Help me find the place to sign up for classes.,LEADER
+I'm here to enroll in a new class.,LEADER
+I need your assistance over here.,LEADER
+Could you come here and give me a hand?,LEADER
+Please come over I require some help.,LEADER
+I need some help please come to my location.,LEADER
+Can you come here and assist me?,LEADER
+Over here I could use your help.,LEADER
+Can you help me locate resources for my research paper?,LEADER
+I need to find sources for my paper but I'm lost.,LEADER
+Please direct me to the materials for my writing project.,LEADER
+Where can I find the information I need for the paper I'm working on?,LEADER
+I'm unsure where to find the right materials for my essay can you show me?,LEADER
+Could you point me toward the resources for a paper I'm writing?,LEADER
+Is it okay if we make a quick stop here?,FOLLOWER
+Would it be possible to pause here for a moment?,FOLLOWER
+Do we have time for me to pop in here quickly?,FOLLOWER
+I'd like to make a brief stop is that alright?,FOLLOWER
+Could we take a short break at this spot?,FOLLOWER
+Would you mind if I just stopped here for a second?,FOLLOWER
+I'd like to go get a beverage.,FOLLOWER
+Can you take me somewhere we can get a drink?,FOLLOWER
+I'm in the mood for a drink right now.,FOLLOWER
+Let's find a place to have a drink.,FOLLOWER
+I could really go for something to drink.,FOLLOWER
+My goal is to find a place for a drink.,FOLLOWER
+Maybe we could check out the new bar across the street?,FOLLOWER
+What do you think about going to that new bar over there?,FOLLOWER
+There's a new bar right across the road should we go?,FOLLOWER
+Should we try the new bar on the other side of the street?,FOLLOWER
+I noticed a new bar over there want to try it?,FOLLOWER
+Let's consider the new bar that's just across the way.,FOLLOWER
+Please specify our meeting point.,LEADER
+Tell me the location where we should connect.,LEADER
+Where is our designated rendezvous spot?,LEADER
+At what location are we supposed to meet?,LEADER
+Let me know where I need to go to find you.,LEADER
+Which place should I head to for our meeting?,LEADER
+I want to go to a car dealership.,FOLLOWER
+Can you take me to a place that sells cars?,FOLLOWER
+My destination is a car dealership.,FOLLOWER
+Let's head over to a car dealership.,FOLLOWER
+I need to visit a car dealership.,FOLLOWER
+Please lead the way to a car dealership.,FOLLOWER
+How about we head to the 24-hour store on Sixth Street?,FOLLOWER
+Maybe we should go to the all-night store on Sixth.,FOLLOWER
+I suggest we go to the 24-hour shop over on Sixth.,FOLLOWER
+What if we went to the store on Sixth that's always open?,FOLLOWER
+An option is the 24-hour store on Sixth.,FOLLOWER
+Let's consider going to the 24-hour store on Sixth.,FOLLOWER
+What is our destination today?,LEADER
+Please tell me where you'd like to go.,LEADER
+Where should I take you?,LEADER
+What's the plan? Where are we headed?,LEADER
+Let me know our destination.,LEADER
+Where will we be going?,LEADER
+The plan is to head to the city centre first for a drink.,FOLLOWER
+I'd like to go to the city centre and get a drink there.,FOLLOWER
+Our first stop is the city centre for a beverage.,FOLLOWER
+Let's go downtown and grab a drink to start.,FOLLOWER
+I want to go into the city centre and then stop for a drink.,FOLLOWER
+The initial destination is the city centre where we'll get a drink.,FOLLOWER
+Which place would you like to go to for a drink?,LEADER
+Where should I take you to get a drink?,LEADER
+Please specify a location for our drink stop.,LEADER
+What's the destination for our drink?,LEADER
+Let me know which bar or cafe you have in mind.,LEADER
+You mentioned a drink where should we go for it?,LEADER
+What is the distance to the museum?,LEADER
+Can you tell me the distance to the museum from here?,LEADER
+How much further to the museum?,LEADER
+Give me an estimate of how far away the museum is.,LEADER
+How long will it take to get to the museum?,LEADER
+Is the museum far from our current location?,LEADER
+Let's stop at the coffee shop to ask for directions.,LEADER
+Our next step is to get directions from inside the coffee shop.,LEADER
+The plan is to ask for directions once we're at the coffee shop.,LEADER
+We can get directions at that coffee shop up ahead.,LEADER
+I'll ask for directions inside the coffee shop.,LEADER
+Let's use the coffee shop to find out the way.,LEADER
+Please go find a table while I order our drinks.,LEADER
+Your task is to find a place to sit; I will handle the drinks.,LEADER
+Go and secure a table for us and I'll buy the drinks.,LEADER
+While I'm getting the drinks you should find us somewhere to sit.,LEADER
+I need you to find a table for us; in the meantime I'll get drinks.,LEADER
+Can you locate an empty table? I'll be at the bar.,LEADER
+What do you think about seeing a movie tonight?,FOLLOWER
+Maybe we could go to the cinema later?,FOLLOWER
+I'd like to suggest we go to the movies this evening.,FOLLOWER
+Are you up for a trip to the cinema tonight?,FOLLOWER
+Should we go to the cinema?,FOLLOWER
+Let's consider the cinema for tonight's activity.,FOLLOWER
+Please locate the closest tattoo shop.,LEADER
+I need you to find the nearest tattoo parlor.,LEADER
+Tell me the location of the nearest tattoo studio.,LEADER
+Where is the closest tattoo parlor?,LEADER
+Search for the tattoo parlor that is nearest to us.,LEADER
+Can you identify the closest place to get a tattoo?,LEADER
+Feel free to come along with us.,FOLLOWER
+You can come with us if you'd like.,FOLLOWER
+We'd be happy if you joined us.,FOLLOWER
+Why don't you come with us?,FOLLOWER
+We're heading out you're welcome to tag along.,FOLLOWER
+You can accompany us.,FOLLOWER
+Shall we head down at the same time?,FOLLOWER
+How about we go down as a group?,FOLLOWER
+We can go downstairs together.,FOLLOWER
+Let's make our way down together.,FOLLOWER
+Why don't we descend together?,FOLLOWER
+We should head down now together.,FOLLOWER
+Please come into my office for a second.,FOLLOWER
+Could you come into my office briefly?,FOLLOWER
+Let's go inside my office for a moment.,FOLLOWER
+The destination is just inside my office here.,FOLLOWER
+Okay we're here. Come on into my office.,FOLLOWER
+This is it please step inside my office.,FOLLOWER
+Please help me find where I can buy a pair of locus.,LEADER
+I need to purchase a pair of locus.,LEADER
+Can you take me to the section that sells locus?,LEADER
+I am looking to buy a pair of locus.,LEADER
+Guide me to the location where they have locus.,LEADER
+Where do I go to get a pair of locus?,LEADER
+You can come in I'm in the kitchen.,FOLLOWER
+The door's open find me in the kitchen.,FOLLOWER
+Come on in I'm waiting in the kitchen.,FOLLOWER
+I'm in the kitchen so you can enter.,FOLLOWER
+Please enter and come to the kitchen.,FOLLOWER
+Let yourself in and navigate to the kitchen.,FOLLOWER
+My schedule says I need to go for a jog before breakfast.,FOLLOWER
+It's time for my pre-breakfast jog.,FOLLOWER
+I need to go on a jog now before I eat.,FOLLOWER
+The next item on my agenda is a jog.,FOLLOWER
+Please lead me on a jogging route now.,FOLLOWER
+Let's go for a run before breakfast.,FOLLOWER
+Your next task is to walk to the office.,LEADER
+After this you need to walk to work.,LEADER
+I'm instructing you to walk to work now.,LEADER
+Proceed to the workplace on foot.,LEADER
+You have been assigned to walk to work.,LEADER
+Now go and walk to the work location.,LEADER
+I think I need to visit a doctor.,FOLLOWER
+Can you take me to see a doctor?,FOLLOWER
+My destination should probably be a doctor's office.,FOLLOWER
+It seems like I ought to see a doctor.,FOLLOWER
+I need to find a doctor to see.,FOLLOWER
+Let's go to a medical clinic.,FOLLOWER
+Would you like to come boating with me?,FOLLOWER
+How about we go boating together?,FOLLOWER
+I'm going boating want to join?,FOLLOWER
+What do you think about a boat trip?,FOLLOWER
+Are you interested in going out on a boat with me?,FOLLOWER
+Let's go boating if you're up for it.,FOLLOWER
+What is your typical route to school?,LEADER
+Can you describe your usual way of getting to school?,LEADER
+Which path do you normally take to get to school?,LEADER
+Tell me about the route you use to go to school.,LEADER
+I'd like to know your standard route to the school.,LEADER
+What is the customary way you travel to school?,LEADER
+I usually ride my bike.,FOLLOWER
+My main mode of transportation is cycling.,FOLLOWER
+Cycling is how I typically get around.,FOLLOWER
+I frequently go out on my bicycle.,FOLLOWER
+You'll often find me riding my bike.,FOLLOWER
+I generally use my bike for travel.,FOLLOWER
+I tend to ride my bicycle most of the time.,FOLLOWER
+Care to join me?,FOLLOWER
+Are you interested in coming with me?,FOLLOWER
+I'm heading out want to come?,FOLLOWER
+Do you want to accompany me?,FOLLOWER
+Feel like tagging along?,FOLLOWER
+What is your destination for today?,LEADER
+Please tell me where you need to go today.,LEADER
+Where do you need to be today?,LEADER
+What's the plan for your destination today?,LEADER
+Let me know where you're going today.,LEADER
+Where should I take you today?,LEADER
+What is your current destination?,LEADER
+Where do you need to go right now?,LEADER
+Tell me where you are headed at the moment.,LEADER
+What is our next destination?,LEADER
+Where to now?,LEADER
+Please state your immediate destination.,LEADER
+Set a course for Tianjin.,LEADER
+Our destination is Tianjin.,LEADER
+We are going to Tianjin now.,LEADER
+Take me to Tianjin.,LEADER
+The goal is to reach Tianjin.,LEADER
+Let's proceed to Tianjin.,LEADER
+I need to go to YY's place.,FOLLOWER
+My destination is YY's.,FOLLOWER
+Please take me to YY's.,FOLLOWER
+I'm heading over to YY's now.,FOLLOWER
+The plan is to go to YY's.,FOLLOWER
+Could you lead the way to YY's?,FOLLOWER
+Okay I will come with you.,LEADER
+I've decided to accompany you.,LEADER
+I'll tag along with you.,LEADER
+Count me in I'm coming too.,LEADER
+Alright let's go together.,LEADER
+I will join your group.,LEADER
+I need to head downstairs to get some water.,FOLLOWER
+My destination is downstairs to refill my water.,FOLLOWER
+I'm just going downstairs because I need more water.,FOLLOWER
+Let's go downstairs I have to get drinking water.,FOLLOWER
+I need to be guided downstairs to get more water.,FOLLOWER
+My goal is to get drinking water downstairs.,FOLLOWER
+How about we go for a coffee?,FOLLOWER
+I'm suggesting we get a coffee together.,FOLLOWER
+Do you want to go grab a coffee with me?,FOLLOWER
+We should go and get some coffee.,FOLLOWER
+I feel like getting coffee let's go together.,FOLLOWER
+Let's make a coffee run.,FOLLOWER
+Do you have another destination to go to?,LEADER
+Are you planning on heading out again?,LEADER
+Will you be needing to go somewhere else?,LEADER
+Do you intend to leave again?,LEADER
+Are you heading out once more?,LEADER
+Should I prepare for another trip?,LEADER
+Please you can go ahead of me.,LEADER
+After you.,LEADER
+You should go ahead.,LEADER
+I'll follow you through.,LEADER
+Why don't you lead the way through here?,LEADER
+You can proceed first.,LEADER
+A frequent destination for me is a leisure spot.,FOLLOWER
+I usually go to a recreational area.,FOLLOWER
+I have a usual place I go to relax.,FOLLOWER
+Take me to my usual leisure spot.,FOLLOWER
+My go-to place is a recreational spot.,FOLLOWER
+A common trip for me is to a place for leisure.,FOLLOWER
+Are you familiar with the route to that location?,LEADER
+Can you find the way there?,LEADER
+Do you have the directions to get there?,LEADER
+Are you aware of the path we need to take?,LEADER
+Do you possess the navigation data for that destination?,LEADER
+Can you guide us to that place?,LEADER
+Please come inside.,FOLLOWER
+You can enter now.,FOLLOWER
+Feel free to come in.,FOLLOWER
+Step inside please.,FOLLOWER
+The door is open come in.,FOLLOWER
+Welcome please enter.,FOLLOWER
+If you'd like I can lead the way from here.,FOLLOWER
+I can take you to the exact spot if you want.,FOLLOWER
+I know the way there and can show you.,FOLLOWER
+Let me guide you to the location.,FOLLOWER
+I can show you where it is.,FOLLOWER
+Would you like me to lead you there?,FOLLOWER
+Would you like to join me for some shopping?,FOLLOWER
+I'm going shopping do you want to come along?,FOLLOWER
+How about we go shopping together?,FOLLOWER
+Are you interested in coming with me to the shops?,FOLLOWER
+Do you want to accompany me on a shopping trip?,FOLLOWER
+I'm heading to the stores care to join?,FOLLOWER
+It's time for us to head back to the office.,FOLLOWER
+We should probably return to work now.,FOLLOWER
+Let's go back to work.,FOLLOWER
+The next destination is back to work.,FOLLOWER
+I think we need to be heading back to work.,FOLLOWER
+Can you take us back to work now?,FOLLOWER
+Would you like to come along with me?,FOLLOWER
+Are you interested in joining me?,FOLLOWER
+I'm leaving do you want to come?,FOLLOWER
+Care to go together?,FOLLOWER
+I'm heading out would you like to come too?,FOLLOWER
+We could go together if you want.,FOLLOWER
+I need your help right now!,LEADER
+Please I require your assistance immediately.,LEADER
+Come and help me it's urgent!,LEADER
+I need your immediate assistance.,LEADER
+Help me please!,LEADER
+I'm in trouble I need your help!,LEADER
+I'm going to use the stairs instead.,FOLLOWER
+My choice is to take the stairs.,FOLLOWER
+I prefer to take the stairs.,FOLLOWER
+For this part I'll be using the stairs.,FOLLOWER
+Let's use the stairs.,FOLLOWER
+I'll meet you on the next floor; I'm taking the stairs.,FOLLOWER
+I really think you should join me.,FOLLOWER
+It would be great if you came with me.,FOLLOWER
+I insist you come along with me.,FOLLOWER
+Come on let's go together.,FOLLOWER
+Let's go you and me.,FOLLOWER
+My suggestion is for you to accompany me.,FOLLOWER
+What is our next destination?,LEADER
+Where do you want to go now?,LEADER
+Please suggest a destination for us.,LEADER
+What's the plan? Where are we headed?,LEADER
+Okay what's our destination?,LEADER
+Tell me where we should be going.,LEADER
+I need to go visit my aunt's place.,FOLLOWER
+My destination is my aunt's house.,FOLLOWER
+Please take me to my aunt's.,FOLLOWER
+I'm heading out now to visit my aunt.,FOLLOWER
+The plan is to go to my aunt's for a visit.,FOLLOWER
+Could you lead me to my aunt's residence?,FOLLOWER
+I can give you a tour and introduce you to the managers.,FOLLOWER
+Let me guide you around and introduce you to the department heads.,FOLLOWER
+I'm offering to show you the area and introduce you to the managers.,FOLLOWER
+Follow me I'll give you a tour and make some introductions.,FOLLOWER
+I can be your guide for a tour of the department managers.,FOLLOWER
+My plan is to show you around and introduce you to the managers.,FOLLOWER
+How about we take a walk through the park?,FOLLOWER
+I suggest we go for a stroll in the park.,FOLLOWER
+Maybe we should go for a walk in the park.,FOLLOWER
+What do you think about walking in the park?,FOLLOWER
+A walk in the park sounds nice shall we go?,FOLLOWER
+Let's consider going to the park for a walk.,FOLLOWER
+I need you to give me a ride.,LEADER
+Will you be my driver?,LEADER
+I require transportation can you provide it?,LEADER
+Please take me where I need to go.,LEADER
+Can you operate the vehicle to take me to my destination?,LEADER
+My request is for you to drive me.,LEADER
+My destination is a meeting with other collectors.,FOLLOWER
+I have to go meet up with fellow collectors.,FOLLOWER
+Please take me to my meeting with the other collectors.,FOLLOWER
+I'm on my way to a meeting with some collectors.,FOLLOWER
+The goal is to get to my meeting with other collectors.,FOLLOWER
+I need to get to a gathering of collectors.,FOLLOWER
+I'm leaving now on my own.,FOLLOWER
+I am also on my way out.,FOLLOWER
+I'm about to leave as well.,FOLLOWER
+I'm starting my journey now.,FOLLOWER
+It's time for me to depart.,FOLLOWER
+I'm also heading out the door.,FOLLOWER
+Our destination is Mr. Smith's place to help with flower planting.,FOLLOWER
+We need to go to Mr. Smith's to assist with planting flowers.,FOLLOWER
+The plan is to help Mr. Smith plant flowers.,FOLLOWER
+Let's head to Mr. Smith's; we're helping him plant flowers.,FOLLOWER
+Take us to Mr. Smith's we have to help him plant flowers.,FOLLOWER
+Our goal is to assist Mr. Smith with planting some flowers.,FOLLOWER
+Are you relocating to this spot?,LEADER
+Is this your new designated location?,LEADER
+Are you being moved to this position?,LEADER
+Do you have instructions to come here?,LEADER
+Is your destination this very spot?,LEADER
+Are you supposed to be moving to my location?,LEADER
+What's our destination this time?,LEADER
+Where should we head to on this occasion?,LEADER
+Do you have a destination in mind for this trip?,LEADER
+What place should we visit now?,LEADER
+Let's decide on a place to go this time.,LEADER
+Where to for our current outing?,LEADER
+I need to find a place that sells books for my mother.,LEADER
+Can you help me find some books for my mom?,LEADER
+Please guide me to a location with books for my mother.,LEADER
+My objective is to find books for my mother.,LEADER
+Where can I find some books to get for my mother?,LEADER
+Assist me in locating books for my mother.,LEADER
+How about we go for a stroll?,FOLLOWER
+Do you feel like taking a walk?,FOLLOWER
+Maybe we could go for a walk.,FOLLOWER
+I suggest we take a walk.,FOLLOWER
+Should we go out for a walk?,FOLLOWER
+Let's consider going for a walk.,FOLLOWER
+Okay come with me.,FOLLOWER
+Alright I'll lead the way from here.,FOLLOWER
+Correct just stay behind me.,FOLLOWER
+That's right you can follow my lead.,FOLLOWER
+Yes this way. Follow me.,FOLLOWER
+Affirmative I will take the lead now.,FOLLOWER
+Please go in front of me.,LEADER
+You can go first.,LEADER
+I'll let you go ahead.,LEADER
+After you.,LEADER
+You should proceed ahead of me.,LEADER
+Lead the way through here.,LEADER
+Please show me where it is.,LEADER
+I need you to show it to me.,LEADER
+Point it out for me.,LEADER
+Can you guide me to it?,LEADER
+I'd like you to show me now.,LEADER
+Bring me to it and show me.,LEADER
+My next step is to locate the school.,LEADER
+I will now attempt to find the school's location.,LEADER
+I'm taking the lead on finding where the school is.,LEADER
+My task is to discover the school's location.,LEADER
+I'll be the one to figure out where the school is.,LEADER
+Let me try and find the location of the school.,LEADER
+How about we go outside for a chat?,FOLLOWER
+I suggest we step outside to have a conversation.,FOLLOWER
+Maybe we could talk outside?,FOLLOWER
+Let's continue this conversation outdoors.,FOLLOWER
+I'd like to go outside and talk.,FOLLOWER
+We should head outside to speak.,FOLLOWER
+Return along the same route.,LEADER
+You need to retrace your steps.,LEADER
+Follow your original path back.,LEADER
+I'm instructing you to go back the way you came.,LEADER
+Turn around and go back.,LEADER
+Proceed back along your previous route.,LEADER
+How about we head outside for some fresh air?,FOLLOWER
+I suggest we go outdoors to enjoy the air.,FOLLOWER
+I feel like getting some fresh air let's go out.,FOLLOWER
+Shall we go outside for a bit?,FOLLOWER
+We could go get some fresh air now.,FOLLOWER
+What do you say we step outside?,FOLLOWER
+Alright I'd like to get a beverage now.,FOLLOWER
+Okay let's find a place for drinks.,FOLLOWER
+Good the next goal is to get something to drink.,FOLLOWER
+Okay time to grab a drink.,FOLLOWER
+Alright let's go get a drink somewhere.,FOLLOWER
+Fine let's head out for a beverage.,FOLLOWER
+I'll allow you to proceed ahead of me.,LEADER
+You can go ahead of me.,LEADER
+Please go before I do.,LEADER
+I will wait for you to go first.,LEADER
+After you.,LEADER
+I'll hang back and let you pass.,LEADER
+I suggest we head into the school auditorium.,FOLLOWER
+Our next destination should be the school auditorium.,FOLLOWER
+How about we go inside the school auditorium?,FOLLOWER
+Let's make our way into the school auditorium.,FOLLOWER
+I'd like to go into the school auditorium now.,FOLLOWER
+The plan is to enter the school auditorium.,FOLLOWER
+Thanks but I can go on my own.,FOLLOWER
+I appreciate the offer but I'll go alone.,FOLLOWER
+I don't need assistance for this trip thank you.,FOLLOWER
+I'll manage by myself this time but thanks.,FOLLOWER
+No need to guide me I'll go by myself.,FOLLOWER
+I can find my own way thank you.,FOLLOWER
+I need to use the restroom.,LEADER
+Please take me to the nearest toilet.,LEADER
+Guide me to a restroom now.,LEADER
+My destination is the bathroom.,LEADER
+Find a toilet for me please.,LEADER
+I require directions to the washroom.,LEADER
+I have to leave right away.,FOLLOWER
+It's urgent that I go now.,FOLLOWER
+We must depart immediately.,FOLLOWER
+I can't wait any longer I have to go.,FOLLOWER
+Let's get going now it's important.,FOLLOWER
+My departure is urgent.,FOLLOWER
+Take me to a hospital immediately!,LEADER
+I need to get to a hospital now!,LEADER
+Hospital quick!,LEADER
+My destination is the hospital and it's an emergency.,LEADER
+You must navigate to a hospital right away.,LEADER
+An emergency! Get me to a hospital.,LEADER
+My destination is the outlet center.,FOLLOWER
+I'm heading to the outlet center.,FOLLOWER
+Please take me to the outlet center.,FOLLOWER
+The plan is to go to the outlet center.,FOLLOWER
+I've decided to go to the outlet center.,FOLLOWER
+Can you lead me to the outlet center?,FOLLOWER
+Can you locate the visa office?,LEADER
+I need the location of the visa office do you have it?,LEADER
+Where is the visa office located?,LEADER
+Are you aware of the visa office's location?,LEADER
+Please tell me the location of the visa office.,LEADER
+I need directions to the visa office can you provide them?,LEADER
+I can escort you to the location.,FOLLOWER
+Let me accompany you there.,FOLLOWER
+I will lead you to that spot.,FOLLOWER
+I can show you the way there.,FOLLOWER
+Follow me I'll take you there.,FOLLOWER
+I'm happy to guide you to the destination.,FOLLOWER
+My destination is the library would you like to join?,FOLLOWER
+I'm heading to the library care to come along?,FOLLOWER
+Want to accompany me to the library?,FOLLOWER
+I'm off to the library are you joining me?,FOLLOWER
+I've decided to go to the library do you want to come too?,FOLLOWER
+The library is my destination are you coming with me?,FOLLOWER
+Allow me to guide you.,FOLLOWER
+I can lead the way from here.,FOLLOWER
+Let me take the lead for a moment.,FOLLOWER
+I know the route let me show you.,FOLLOWER
+This way I can show you.,FOLLOWER
+I'll guide you to the destination.,FOLLOWER
+Come with me please.,FOLLOWER
+I need you to follow my lead.,FOLLOWER
+Stay behind me please.,FOLLOWER
+This way just follow me.,FOLLOWER
+I'll lead now please follow.,FOLLOWER
+If you'll follow me I'll show you.,FOLLOWER
+My objective is to have a picnic.,LEADER
+Please find a suitable location for a picnic.,LEADER
+I would like you to arrange a picnic outing.,LEADER
+Let's plan to go on a picnic.,LEADER
+Find us a place to go for a picnic.,LEADER
+The goal is to go on a picnic.,LEADER
+I must leave now.,FOLLOWER
+It's imperative that I go.,FOLLOWER
+I can't stay any longer I need to leave.,FOLLOWER
+We need to go it's urgent.,FOLLOWER
+I have an urgent need to depart.,FOLLOWER
+My departure cannot wait.,FOLLOWER
+Shall we explore the theater now?,LEADER
+I propose we tour the theater.,LEADER
+Let's have a look around the inside of the theater.,LEADER
+How about a tour of the theater?,LEADER
+My suggestion is to explore the theater.,LEADER
+Let's go and see the theater.,LEADER
+I'm not sure where the bookstore is located.,LEADER
+Can you find the bookstore for me? I'm lost.,LEADER
+The location of the bookstore is unknown to me.,LEADER
+I need to find the bookstore but I don't know the way.,LEADER
+Please guide me to the bookstore; I don't know where it is.,LEADER
+I have no idea where the bookstore is.,LEADER
+Our destination is the movie theater.,FOLLOWER
+We have decided to go to the cinema.,FOLLOWER
+Please take us to the movies.,FOLLOWER
+We're heading to the movies now.,FOLLOWER
+The plan is to go see a film.,FOLLOWER
+We're off to the cinema.,FOLLOWER
+I'm having trouble choosing a destination.,LEADER
+Can you suggest some places to go? I'm undecided.,LEADER
+I'm not sure where we should go.,LEADER
+I need some help deciding on a destination.,LEADER
+It's hard for me to pick a place to go.,LEADER
+I am open to suggestions on where to go.,LEADER
+How about we go for a walk to get some fresh air?,FOLLOWER
+I suggest a walk outside to enjoy the air.,FOLLOWER
+Maybe we could take a walk and get some fresh air.,FOLLOWER
+A nice walk for some fresh air sounds good.,FOLLOWER
+Let's consider going for a walk.,FOLLOWER
+My suggestion is to go for a walk.,FOLLOWER
+Can you tell me the location of tonight's concert?,LEADER
+I need to know where the concert is being held this evening.,LEADER
+What is the venue for the concert tonight?,LEADER
+Do you have the address for this evening's concert?,LEADER
+Please find the location of the concert.,LEADER
+I require the concert's location for tonight.,LEADER
+Let's use the navigation system to find the optimal route home.,LEADER
+I suggest we check the navigation for the best way back.,LEADER
+Our next step should be to consult the navigation for the best route.,LEADER
+The best route home can be found using the navigation system.,LEADER
+We should find the quickest way home by checking the navigation.,LEADER
+Let's determine the best path home with the navigation system.,LEADER
+I've decided to walk instead.,FOLLOWER
+I would prefer to go on foot.,FOLLOWER
+My choice is to walk.,FOLLOWER
+Let's proceed on foot.,FOLLOWER
+I'll be walking thanks.,FOLLOWER
+I'd rather walk to the destination.,FOLLOWER
+Can you guide me to its location?,LEADER
+Please show me the way to it.,LEADER
+I need you to lead me to where it is.,LEADER
+Take me to the place where I can find it.,LEADER
+Where can it be found? Please show me.,LEADER
+Please direct me to its location.,LEADER
+How about we find a quiet place to sit and have a drink?,FOLLOWER
+I suggest we look for a quiet spot to get a beverage.,FOLLOWER
+Let's go somewhere quiet for a drink.,FOLLOWER
+My idea is to find a quiet seat for a beverage.,FOLLOWER
+Let's find a peaceful spot to sit and drink something.,FOLLOWER
+We should find a quiet table and order a drink.,FOLLOWER
+How about we walk to the destination?,FOLLOWER
+I suggest we go on foot.,FOLLOWER
+My preference is to walk there.,FOLLOWER
+Shall we walk?,FOLLOWER
+We can get there by walking.,FOLLOWER
+Instead of riding let's walk.,FOLLOWER
+Are you familiar with that location?,LEADER
+Can you confirm you know the location of that place?,LEADER
+Is that location in your database?,LEADER
+Do you have the coordinates for that place?,LEADER
+Please verify if you know where that is.,LEADER
+I need to know if you can find that place.,LEADER
+Would you like to accompany me?,FOLLOWER
+Do you want to come along?,FOLLOWER
+I'm heading out are you joining?,FOLLOWER
+Care to come with me?,FOLLOWER
+Shall we go together?,FOLLOWER
+I'm leaving now are you coming too?,FOLLOWER
+My destination is the shops.,FOLLOWER
+I've decided to go shopping now.,FOLLOWER
+Please take me shopping.,FOLLOWER
+I'm heading to the stores.,FOLLOWER
+The plan is to do some shopping.,FOLLOWER
+I need to go to the shopping center.,FOLLOWER
+Come with me to the backyard.,FOLLOWER
+This way to the backyard please follow.,FOLLOWER
+I'll lead the way to the backyard.,FOLLOWER
+I need you to follow me out to the backyard.,FOLLOWER
+Let's go to the backyard; I'll lead.,FOLLOWER
+Stay behind me as we go to the backyard.,FOLLOWER
+Do you want to grab a bite to eat with me?,FOLLOWER
+How about we go get some food together?,FOLLOWER
+Are you interested in getting something to eat?,FOLLOWER
+Shall we go find a place to eat?,FOLLOWER
+I'm hungry would you like to get food with me?,FOLLOWER
+Let's go for a meal if you'd like.,FOLLOWER
+I suggest we try the new Chinese restaurant.,FOLLOWER
+How about we go to the new Chinese place?,FOLLOWER
+Maybe we could eat at that new Chinese restaurant.,FOLLOWER
+That new Chinese restaurant is an option.,FOLLOWER
+Let's consider the new Chinese restaurant.,FOLLOWER
+What if we went to the new Chinese restaurant?,FOLLOWER
+Where is the nearest parking available?,LEADER
+Please show me where to park.,LEADER
+I need to know the location of the parking area.,LEADER
+Could you direct me to a parking spot?,LEADER
+Where are the parking facilities?,LEADER
+I need parking information can you provide it?,LEADER
+How about a walk in the hills?,FOLLOWER
+I suggest we go for a hike in the hills.,FOLLOWER
+Maybe we could take a walk up in the hills.,FOLLOWER
+What do you think about walking in the hills?,FOLLOWER
+A walk in the hills would be nice.,FOLLOWER
+Let's consider going for a walk in the hills.,FOLLOWER
+I'm unsure of where to go next.,LEADER
+I need some suggestions for a destination.,LEADER
+I'm lost and don't know where to go.,LEADER
+Can you recommend a place for us to go?,LEADER
+I can't decide on a destination.,LEADER
+Please provide some options for where to go.,LEADER
+I'll go ask the woman at the reception desk.,FOLLOWER
+My plan is to ask for directions from the person in the office.,FOLLOWER
+Let me get information from the woman at reception.,FOLLOWER
+I'm going to see if the lady at the front desk can help.,FOLLOWER
+Wait here I'll ask the woman in the reception office.,FOLLOWER
+I will try asking the receptionist for directions.,FOLLOWER
+That shady spot over there looks like a good place to rest.,FOLLOWER
+Let's go over to that comfortable-looking spot in the shade.,FOLLOWER
+How about we head to that shady area? It looks comfortable.,FOLLOWER
+I suggest we go to that spot in the shade.,FOLLOWER
+Look at that comfortable spot in the shade.,FOLLOWER
+That place in the shade seems like a nice spot.,FOLLOWER
+I'm going to go take a look at that now.,FOLLOWER
+I've decided to go and investigate that.,FOLLOWER
+I want to check that out.,FOLLOWER
+Let's go see what that is.,FOLLOWER
+I'm heading over to look at that now.,FOLLOWER
+My next action is to go check that out.,FOLLOWER
+What university is your destination?,LEADER
+Please tell me which university you are heading to.,LEADER
+I need to know which university you will be attending.,LEADER
+What is the name of the university you're going to?,LEADER
+To which university should I guide you?,LEADER
+Let me know your university destination.,LEADER
+The plan is to get a newspaper first and then head to the library.,FOLLOWER
+Our first stop is to buy a newspaper followed by the library.,FOLLOWER
+I want to go purchase a newspaper and after that go to the library.,FOLLOWER
+Let's go to the newsstand and then the library.,FOLLOWER
+We have two stops: first a newspaper then the library.,FOLLOWER
+The agenda is to pick up a newspaper before going to the library.,FOLLOWER
+What is the route to the library from our current location?,LEADER
+Can you give me directions to the library?,LEADER
+Please show me the way to the library.,LEADER
+What's the best way to get to the library?,LEADER
+I need the directions to the library.,LEADER
+How can we reach the library from here?,LEADER
+I need assistance with class registration can you help?,LEADER
+Please guide me to the location for class registration.,LEADER
+Can you help me with the process of registering for a class?,LEADER
+I need to register for a class; please assist me.,LEADER
+Where do I go to register for a class? I need your help.,LEADER
+I require assistance signing up for a course.,LEADER
+Could you move up to the front area please?,FOLLOWER
+I need you to join me here at the front.,FOLLOWER
+Let's meet at the front.,FOLLOWER
+The final meeting point is up here at the front.,FOLLOWER
+Can you come forward please?,FOLLOWER
+Please proceed to the front of the room.,FOLLOWER
+Take these items to my wife's car.,LEADER
+The destination for these is my wife's vehicle.,LEADER
+I need you to carry these to my wife's car.,LEADER
+Please deliver these things to my wife's car.,LEADER
+Your task is to bring these to my wife's car.,LEADER
+Navigate to my wife's car and drop these off.,LEADER
+Pardon me I need some assistance.,LEADER
+Could you please help me with something?,LEADER
+Excuse me I require your help.,LEADER
+I need some help are you available?,LEADER
+Can I ask you for some assistance?,LEADER
+Sorry to bother you but I need help.,LEADER
+Where can I find a shop that sells slides and postcards?,LEADER
+Can you guide me to a place where I can buy slides and postcards?,LEADER
+I'm looking for a store that sells slides and picture postcards.,LEADER
+Do you know a location that sells postcards and slides?,LEADER
+Please find a place for me to purchase slides and postcards.,LEADER
+I need to buy slides and postcards where should I go?,LEADER
+My destination is the bookstore.,FOLLOWER
+I'm on my way to the bookstore.,FOLLOWER
+Please take me to the bookstore.,FOLLOWER
+I've decided to head to the bookstore.,FOLLOWER
+The plan is to visit the bookstore.,FOLLOWER
+I need to be guided to the bookstore.,FOLLOWER
+Do you have a specific destination in mind?,LEADER
+Is there a particular place you'd like to go?,LEADER
+Where would you suggest we go?,LEADER
+What location are you thinking of?,LEADER
+Let me know if you have a place in mind.,LEADER
+Any ideas on where we should go?,LEADER
+My destination is the University of Tampa.,FOLLOWER
+I'm heading to the University of Tampa campus.,FOLLOWER
+Please guide me to the University of Tampa.,FOLLOWER
+I need to get to the University of Tampa.,FOLLOWER
+The University of Tampa is where I'm going.,FOLLOWER
+Take me to the University of Tampa please.,FOLLOWER
+I'd like to have you over at my place sometime.,FOLLOWER
+You should come over to my house later.,FOLLOWER
+I'm inviting you to come to my place.,FOLLOWER
+Let's plan for you to come over.,FOLLOWER
+I want you to be my guest at my home.,FOLLOWER
+My home will be the destination; I'm inviting you.,FOLLOWER
+What do you think about getting coffee at that cafe?,FOLLOWER
+I suggest we go for a coffee in that cafe over there.,FOLLOWER
+Maybe we could have coffee at that cafe?,FOLLOWER
+Shall we get a coffee in that cafe?,FOLLOWER
+That cafe looks nice for a coffee want to go?,FOLLOWER
+Let's consider that cafe for a coffee break.,FOLLOWER
+Allow me a moment to look.,FOLLOWER
+I'm just going to take a look.,FOLLOWER
+I want to see for myself.,FOLLOWER
+Let me just check something quickly.,FOLLOWER
+I'd like to get a better look.,FOLLOWER
+I need to examine this.,FOLLOWER
+I can show you the correct way.,FOLLOWER
+Let me give you a pointer in the right direction.,FOLLOWER
+I know the right way from here; I can guide you.,FOLLOWER
+I can provide directions from this point.,FOLLOWER
+Allow me to point you in the proper direction.,FOLLOWER
+I'm able to show you where to go.,FOLLOWER
+Please locate the office.,LEADER
+I need you to find the office for me.,LEADER
+Your task is to find the office.,LEADER
+Are you able to find the office?,LEADER
+Find the location of the office.,LEADER
+I command you to find the office.,LEADER
+Can you locate the closest McDonald's?,LEADER
+I need directions to the nearest McDonald's.,LEADER
+What is the location of the McDonald's closest to us?,LEADER
+Please find the nearest McDonald's.,LEADER
+Where is the McDonald's in this area?,LEADER
+Direct me to the nearest McDonald's.,LEADER
+I was under the impression you knew our stop.,LEADER
+Don't you know which stop is ours?,LEADER
+I assumed you were aware of our destination stop.,LEADER
+You were supposed to know where we get off.,LEADER
+Aren't you aware of which stop we need?,LEADER
+You don't know our stop? I thought you did.,LEADER
+My destination is the gym.,FOLLOWER
+Please take me to the gym.,FOLLOWER
+I'm on my way to the gym now.,FOLLOWER
+The plan is to head to the gym.,FOLLOWER
+I need to be guided to the gym.,FOLLOWER
+The gym is where I'm headed.,FOLLOWER
+How difficult is the route to the city centre?,LEADER
+Is the journey to the city centre straightforward?,LEADER
+Can you tell me if getting to the city centre is complicated?,LEADER
+What is the difficulty level for reaching the city centre?,LEADER
+Will we have any trouble getting to the city centre?,LEADER
+Is there an easy way to get to the city centre?,LEADER
+Pardon me can you tell me the location of the Beijing Railway Station?,LEADER
+I need to find the Beijing Railway Station can you help?,LEADER
+Could you direct me to the Beijing Railway Station?,LEADER
+Where can I find the Beijing Railway Station?,LEADER
+What are the directions to the Beijing Railway Station?,LEADER
+I'm looking for the Beijing Railway Station.,LEADER
+What is the best way to get to the Olympic Stadium?,LEADER
+Can you give me directions to the Olympic Stadium?,LEADER
+Please tell me the route to the Olympic Stadium.,LEADER
+What path should I take to reach the Olympic Stadium?,LEADER
+I need directions to get to the Olympic Stadium.,LEADER
+Could you show me how to get to the Olympic Stadium?,LEADER
+Can you recommend the best shopping location?,LEADER
+I'm not sure where the best shopping area is.,LEADER
+Please find the best place to shop around here.,LEADER
+I need help finding the best place to shop.,LEADER
+Where would you suggest I go shopping?,LEADER
+I'm looking for a good shopping destination but don't know where to start.,LEADER
+The destination for him is an office supply store.,FOLLOWER
+He needs to be taken to an office supply store.,FOLLOWER
+An office supply store is where he needs to go.,FOLLOWER
+Let's take him to an office supply store.,FOLLOWER
+His required destination is an office supply store.,FOLLOWER
+The plan is for him to go to an office supply store.,FOLLOWER
+Let's make a stop to do that during our trip home.,FOLLOWER
+We can take care of that while we're heading home.,FOLLOWER
+Let's add that as a stop on our way back.,FOLLOWER
+The plan is to do that while returning home.,FOLLOWER
+We can accomplish that en route home.,FOLLOWER
+Let's incorporate that task into our journey home.,FOLLOWER
+I need to find a place that sells cigarettes.,LEADER
+Can you direct me to a store where I can buy cigarettes?,LEADER
+Where is the nearest place to purchase cigarettes?,LEADER
+Please locate a shop that sells cigarettes.,LEADER
+I'm looking for a place to buy cigarettes.,LEADER
+Guide me to a location that sells cigarettes.,LEADER
+Can you direct me to the men's restroom?,LEADER
+I need to find the men's washroom.,LEADER
+What are the directions to the men's room?,LEADER
+Please show me where the men's room is.,LEADER
+Where can I find the men's toilet?,LEADER
+I'm looking for the men's room.,LEADER
+Can you recommend a location for me to exercise?,LEADER
+I need to find a place to work out any suggestions?,LEADER
+Where can I go to get some exercise?,LEADER
+Please find a nearby place suitable for exercising.,LEADER
+Is there an exercise facility I can use?,LEADER
+I'm looking for a spot to exercise.,LEADER
+How about we walk to town and browse the shops?,FOLLOWER
+I suggest a stroll into town for some window-shopping.,FOLLOWER
+Maybe we could go into town to walk and look at the stores.,FOLLOWER
+Let's go for a walk downtown and do some window-shopping.,FOLLOWER
+I feel like walking into town and just looking around the shops.,FOLLOWER
+My suggestion is a walk into town with some window-shopping.,FOLLOWER
+The computer lab is the destination for printing.,FOLLOWER
+To print the place to go is the computer lab.,FOLLOWER
+Printing can only be done at the computer lab.,FOLLOWER
+The required location for printing is the computer lab.,FOLLOWER
+Let's go to the computer lab; that's where the printers are.,FOLLOWER
+Our destination needs to be the computer lab for printing.,FOLLOWER
+Okay so the plan is to walk from here.,FOLLOWER
+Alright we will proceed on foot now.,FOLLOWER
+Fine walking it is.,FOLLOWER
+So we are walking now understood.,FOLLOWER
+Good let's start walking.,FOLLOWER
+Excellent our mode of travel is now walking.,FOLLOWER
+I need you to find a place where we can buy one.,LEADER
+Where is this item sold?,LEADER
+Please locate a store that sells this.,LEADER
+Can you tell me a location to purchase this?,LEADER
+Direct us to a place where we can buy one.,LEADER
+We need to buy one where should we go?,LEADER
+Our destination must be State Street.,FOLLOWER
+State Street is where we need to be.,FOLLOWER
+The required destination is State Street.,FOLLOWER
+Please take us to State Street.,FOLLOWER
+It's necessary for us to go to State Street.,FOLLOWER
+The plan requires a trip to State Street.,FOLLOWER
+Our first stop should be the inquiry desk.,FOLLOWER
+I suggest we begin by going to the inquiry desk.,FOLLOWER
+How about we head to the inquiry desk to start?,FOLLOWER
+Let's make the inquiry desk our initial destination.,FOLLOWER
+The first place we need to go is the inquiry desk.,FOLLOWER
+I think we should start at the inquiry desk.,FOLLOWER
+You'll find the dressing room in that direction.,FOLLOWER
+That's the dressing room over there.,FOLLOWER
+The location of the dressing room is over there.,FOLLOWER
+I'm pointing out the dressing room for you.,FOLLOWER
+The dressing room is located right there.,FOLLOWER
+If you look over there you'll see the dressing room.,FOLLOWER
+I will need to go get more painkillers soon.,FOLLOWER
+A future destination will be a place to buy painkillers.,FOLLOWER
+Later on I'm planning a trip to buy more painkillers.,FOLLOWER
+I'm going to need to purchase more painkillers shortly.,FOLLOWER
+Prepare for a trip to get painkillers in a little while.,FOLLOWER
+My next errand will be to buy more painkillers.,FOLLOWER
+Can you please tell me the location of Wort Street?,LEADER
+I need to find Wort Street could you help?,LEADER
+What are the directions to Wort Street?,LEADER
+Please locate Wort Street for me.,LEADER
+How do I get to Wort Street?,LEADER
+I'm looking for Wort Street can you provide its location?,LEADER
+I need to know the location of the canteen.,LEADER
+Please direct me to the canteen.,LEADER
+Where can I find the canteen?,LEADER
+What are the directions to the canteen?,LEADER
+Can you show me where the canteen is?,LEADER
+I'm looking for the canteen can you help?,LEADER
+Actually I can lead you to that location.,FOLLOWER
+I know the way; I can guide you there.,FOLLOWER
+Let me take you there myself.,FOLLOWER
+I can show you the way if you'd like.,FOLLOWER
+It's no problem I can escort you there.,FOLLOWER
+Follow me I can take you.,FOLLOWER
+That was my destination as well.,FOLLOWER
+Coincidentally that's where I was going.,FOLLOWER
+I was already on my way there.,FOLLOWER
+Perfect I was going in that direction too.,FOLLOWER
+That works out as I was also heading there.,FOLLOWER
+My intended destination is the same.,FOLLOWER
+Can you find a bookstore in this vicinity?,LEADER
+I'm looking for a bookstore nearby.,LEADER
+Are there any bookstores in the area?,LEADER
+Please locate the nearest bookstore.,LEADER
+I need to know if there's a bookstore close by.,LEADER
+Is there a local bookstore I can go to?,LEADER
+Our plan is to have a business lunch at the restaurant.,FOLLOWER
+We need to go to the restaurant for a business lunch.,FOLLOWER
+The destination is the restaurant for the purpose of a business lunch.,FOLLOWER
+Please take us to the restaurant; we're having a business lunch.,FOLLOWER
+A business lunch at the restaurant is what we have planned.,FOLLOWER
+The goal is to conduct a business lunch at the restaurant.,FOLLOWER
+To be safe please send me the directions.,LEADER
+I'd like you to send the directions over just in case.,LEADER
+Could you provide me with the directions for confirmation?,LEADER
+Please forward the route to me so I can double-check.,LEADER
+Send the directions to my device please.,LEADER
+Just to be sure can I get the directions from you?,LEADER
+Which gate is the flight to New York departing from?,LEADER
+I need to find the departure gate for the New York plane.,LEADER
+Can you tell me where to board the plane to New York?,LEADER
+Where is the boarding location for the New York flight?,LEADER
+Please direct me to the gate for New York.,LEADER
+At which location does the New York plane board?,LEADER
+Come on let's go find a Sichuan Hotpot place for dinner now.,FOLLOWER
+I'm suggesting we find a Sichuan Hotpot restaurant for our meal without any more delay.,FOLLOWER
+Let's hurry up and decide on a Sichuan Hotpot restaurant for dinner.,FOLLOWER
+My goal for dinner is a Sichuan Hotpot restaurant let's go.,FOLLOWER
+We should find a Sichuan Hotpot restaurant to eat at now.,FOLLOWER
+Let's get moving and find a place for Sichuan Hotpot.,FOLLOWER
+Which street do I need to be on to catch the bus/train?,LEADER
+Can you tell me which street I should go to for my ride?,LEADER
+I need to know the street for the pickup location.,LEADER
+What is the name of the street where I can catch my transportation?,LEADER
+Please tell me which street to go to.,LEADER
+On which street is the stop located?,LEADER
+I need to find the train station.,LEADER
+Can you please guide me to the train station?,LEADER
+My objective is to locate the train station.,LEADER
+Please show me the way to the train station.,LEADER
+Where is the train station located?,LEADER
+I require assistance in finding the train station.,LEADER
+I would like to be taken to my colleagues.,LEADER
+Can you guide me to where my colleagues are?,LEADER
+Please find my colleagues so I can meet with them.,LEADER
+My goal is to meet up with my colleagues.,LEADER
+Is it possible for you to take me to my colleagues?,LEADER
+Let's go meet my colleagues.,LEADER
+What is the distance between the airport and the office?,LEADER
+Can you tell me the distance from the office to the airport?,LEADER
+Please calculate the distance between the airport and the office.,LEADER
+I need to know how far the office is from the airport.,LEADER
+How long is the journey from the airport to the office?,LEADER
+Provide the distance separating the office and the airport.,LEADER
+My destination is the airport.,FOLLOWER
+Please take me to the airport.,FOLLOWER
+I'm on my way to the airport now.,FOLLOWER
+The plan is to head to the airport.,FOLLOWER
+I need to be guided to the airport.,FOLLOWER
+The airport is where I'm headed.,FOLLOWER
+I need to find a place that sells shoes.,LEADER
+Where can I purchase a pair of shoes?,LEADER
+Please locate a shoe store for me.,LEADER
+Guide me to a shop where I can buy shoes.,LEADER
+I'm looking for a place to buy shoes.,LEADER
+Can you suggest a store for buying shoes?,LEADER
+Do you want to take over the navigation now?,LEADER
+I'm ready to hand over the guidance to you.,LEADER
+Can you lead the way from this point?,LEADER
+Shall you take the lead now?,LEADER
+It's your turn to navigate if you're ready.,LEADER
+I'm delegating the next part of the route to you.,LEADER
+Can you direct me to the men's shoe department?,LEADER
+I need to find where they sell men's shoes.,LEADER
+What are the directions to the men's shoe department?,LEADER
+Please show me where the men's shoe department is.,LEADER
+Where can I find the men's shoe section?,LEADER
+I'm looking for the men's shoe department.,LEADER
+How about we go inside and see their selection?,FOLLOWER
+I suggest we just browse for a bit.,FOLLOWER
+Let's go have a look at their merchandise.,FOLLOWER
+Maybe we could just see what's available.,FOLLOWER
+Let's wander around and see what they offer.,FOLLOWER
+My suggestion is to just browse the store.,FOLLOWER
+You can find the fitting rooms in that direction.,FOLLOWER
+The location of the fitting rooms is over there.,FOLLOWER
+That's where the fitting rooms are.,FOLLOWER
+If you look over there you'll see the fitting rooms.,FOLLOWER
+The fitting rooms are located right there.,FOLLOWER
+I'm pointing out the fitting rooms for you.,FOLLOWER
+How about we go to the restaurant that's close by?,FOLLOWER
+I suggest we eat at the nearby restaurant.,FOLLOWER
+Maybe we could go to the restaurant in this area.,FOLLOWER
+Let's head to the local restaurant.,FOLLOWER
+My suggestion is the restaurant that's near us.,FOLLOWER
+Shall we go to the restaurant around here?,FOLLOWER
+In that case I'll go on my own.,FOLLOWER
+Alright I will go by myself.,FOLLOWER
+I don't need assistance; I'll go alone.,FOLLOWER
+Then I'll just find my own way.,FOLLOWER
+I can manage by myself thank you.,FOLLOWER
+I've decided to go without guidance then.,FOLLOWER
+I need to find the camera section.,LEADER
+Can you please guide me to where the cameras are sold?,LEADER
+My objective is to locate the cameras.,LEADER
+Please show me the way to the cameras.,LEADER
+Where are the cameras in this store?,LEADER
+I require assistance in finding the cameras.,LEADER
+Can you tell me the location of the Royal Hotel?,LEADER
+I need to find the Royal Hotel can you help?,LEADER
+What are the directions to the Royal Hotel?,LEADER
+Please locate the Royal Hotel for me.,LEADER
+How do I get to the Royal Hotel?,LEADER
+I'm looking for the Royal Hotel do you know its location?,LEADER
+Can you direct me to the restroom here?,LEADER
+I need to find the toilet in this building.,LEADER
+Where is the washroom located?,LEADER
+Please show me where the bathroom is.,LEADER
+Could you tell me the location of the restroom?,LEADER
+I'm looking for the toilet.,LEADER
+Can you help me find a suitable gift for my daughter?,LEADER
+I require assistance in locating a gift for my daughter.,LEADER
+Please suggest some places where I can find a gift for my daughter.,LEADER
+I'm looking for a gift for my daughter and need guidance.,LEADER
+Where can I go to find a gift for my daughter?,LEADER
+My mission is to find a gift for my daughter please help.,LEADER
+Can you find a location to store my luggage?,LEADER
+I'm looking for somewhere to leave my luggage.,LEADER
+Please guide me to a place where I can put my bags.,LEADER
+Where can I store my luggage?,LEADER
+I need to find luggage storage.,LEADER
+Please help me find a spot for my luggage.,LEADER
+I need to find a person named Bob.,LEADER
+Can you help me locate Bob?,LEADER
+My objective is to find Bob.,LEADER
+Please assist me in locating Bob.,LEADER
+Have you seen Bob? I need to find him.,LEADER
+The person I'm searching for is Bob.,LEADER
+Let's head over there and meet up with mom.,FOLLOWER
+I suggest we go over there where mom is.,FOLLOWER
+How about we join mom over there?,FOLLOWER
+Mom is over there let's go to her.,FOLLOWER
+Let's make our way over to mom.,FOLLOWER
+Our destination is over there with mom.,FOLLOWER
+My destination is my workplace.,FOLLOWER
+It's time for me to head to work.,FOLLOWER
+Please take me to work now.,FOLLOWER
+I need to get to my job.,FOLLOWER
+The required destination is work.,FOLLOWER
+Can you guide me to my office?,FOLLOWER
+Let's go I can lead you to the location.,FOLLOWER
+Follow me and I'll show you.,FOLLOWER
+This way I know where it is.,FOLLOWER
+I can guide you there come with me.,FOLLOWER
+Don't worry I'll show you the way.,FOLLOWER
+Let me take the lead; I know where to go.,FOLLOWER
+Can you tell me where to find a guide?,LEADER
+I need to locate a guide can you help?,LEADER
+Where are the guides located?,LEADER
+Please direct me to a guide.,LEADER
+I'm looking for a guide where should I go?,LEADER
+Where can I get a tour guide or map?,LEADER
+I need to find a pan for my kitchen.,LEADER
+Can you guide me to where they sell kitchen pans?,LEADER
+My objective is to find a pan to use in my kitchen.,LEADER
+Please show me where to find kitchen pans.,LEADER
+I need to buy a pan for my kitchen; where should I go?,LEADER
+Help me locate a pan suitable for my kitchen.,LEADER
+Danny and I are heading home now.,FOLLOWER
+My plan is to return home with Danny.,FOLLOWER
+I will be accompanying Danny back home.,FOLLOWER
+Please guide Danny and me back home.,FOLLOWER
+We are ready to go home; I'll be with Danny.,FOLLOWER
+Danny and I will be making our way home together.,FOLLOWER
+How about we head to the square and see what's there?,FOLLOWER
+I suggest we go browse around the square.,FOLLOWER
+Maybe we could go to the square and look around.,FOLLOWER
+Let's make our way to the square for a look.,FOLLOWER
+I'd like to check out the square.,FOLLOWER
+Shall we go to the square?,FOLLOWER
+How about we start with a walk around the lake?,FOLLOWER
+I suggest we take a stroll around the lake first.,FOLLOWER
+Maybe our first activity could be walking around the lake.,FOLLOWER
+What do you think about walking around the lake to begin?,FOLLOWER
+Let's begin by circling the lake on foot.,FOLLOWER
+Shall we start by taking a lap around the lake?,FOLLOWER
+I need the quickest route to the destination.,LEADER
+Please find the fastest way to get there.,LEADER
+Guide me using the most efficient path.,LEADER
+What is the quickest way to arrive?,LEADER
+Calculate the fastest route for me.,LEADER
+I want to take the shortest route in terms of time.,LEADER
+Can you direct me to the main restaurant district?,LEADER
+Where can I find the highest concentration of restaurants?,LEADER
+I'm looking for the primary dining area.,LEADER
+Please show me where most of the restaurants are located.,LEADER
+Which area has the most restaurants?,LEADER
+Guide me to the main hub for restaurants.,LEADER
+I need to find a place to exchange money can you take me?,LEADER
+Please show me the way to a currency exchange.,LEADER
+Where can I change money? Please guide me there.,LEADER
+I need to be guided to a money exchange office.,LEADER
+Can you navigate me to a place that exchanges currency?,LEADER
+Lead me to a currency exchange please.,LEADER
+I would prefer to leave this place.,FOLLOWER
+My preference is to go somewhere else.,FOLLOWER
+I think I would like to go out instead.,FOLLOWER
+Let's go out if that's okay.,FOLLOWER
+I don't want to stay here; I'd rather go out.,FOLLOWER
+I feel like going out.,FOLLOWER
+Can you show me where to store my overcoat and briefcase?,LEADER
+Where is the designated place for coats and briefcases in the office?,LEADER
+I need to know where to put my belongings now that I'm in the office.,LEADER
+Please direct me to the closet or storage area for my things.,LEADER
+Where do personal items like coats and briefcases go?,LEADER
+I've arrived; now where can I put my coat and bag?,LEADER
+Please guide me to my assigned seat.,LEADER
+I need to find my seat can you show me?,LEADER
+Could you lead me to my seat?,LEADER
+I'd like to be taken to my seat now.,LEADER
+Please direct me to where I'm supposed to sit.,LEADER
+My seat location please?,LEADER
+Shall we head to the bank now?,FOLLOWER
+Is it time for us to leave for the bank?,FOLLOWER
+I'm ready to go to the bank when you are.,FOLLOWER
+Should we start our trip to the bank?,FOLLOWER
+Let's get going to the bank are you prepared?,FOLLOWER
+Ready to depart for the bank?,FOLLOWER
+Allow me to give you a tour of the house.,FOLLOWER
+I can show you around the house.,FOLLOWER
+Would you like me to show you the house?,FOLLOWER
+Follow me I'll give you a tour of the house.,FOLLOWER
+Let me be your guide through the house.,FOLLOWER
+I'd be happy to show you the house.,FOLLOWER
+How about we head to the station to purchase the tickets?,FOLLOWER
+I suggest we go to the station now to buy tickets.,FOLLOWER
+Maybe we should go to the station for the tickets.,FOLLOWER
+Let's make a trip to the station to get the tickets.,FOLLOWER
+What do you think about going to the station for tickets?,FOLLOWER
+My suggestion is to go to the station and buy our tickets.,FOLLOWER
+Can you guide me to the ice cream section?,LEADER
+Please show me the way to the ice cream.,LEADER
+I need you to lead me to where the ice cream is.,LEADER
+Take me to the location of the ice cream.,LEADER
+Where is the ice cream? Please show me.,LEADER
+Please direct me to the ice cream.,LEADER
+What is the route to the closest national bank branch?,LEADER
+Can you give me directions to the nearest national bank?,LEADER
+Please show me the way to the nearest branch of the national bank.,LEADER
+What's the best way to get to the closest national bank?,LEADER
+I need directions to the nearest national bank.,LEADER
+How do I reach the closest national bank from here?,LEADER
+How about we head to the food stall?,FOLLOWER
+I suggest we go to the food stall.,FOLLOWER
+Maybe we could check out the food stall.,FOLLOWER
+Let's make our way to the food stall.,FOLLOWER
+I'd like to go to the food stall.,FOLLOWER
+Shall we visit the food stall?,FOLLOWER
+Your instruction is to follow the guide.,LEADER
+Our method of navigation will be to follow the guide.,LEADER
+You are to stay with the guide.,LEADER
+The plan is to follow the tour guide.,LEADER
+Don't lose the guide; we must follow them.,LEADER
+Ensure you follow the guide's path.,LEADER
+Can you direct me to the Human Resources Office?,LEADER
+I need to find the Human Resources Office.,LEADER
+What are the directions to the HR Office?,LEADER
+Please show me where the Human Resources Office is.,LEADER
+Could you tell me the location of the Human Resources Office?,LEADER
+I'm looking for the Human Resources Office.,LEADER
+I'm going to look for a seat in the smoking area.,FOLLOWER
+My next action is to find us a seat in the smoking section.,FOLLOWER
+I'll see if I can find a table in the smoking section.,FOLLOWER
+Now to find a seat over in the smoking area.,FOLLOWER
+Let me handle finding a a seat in the smoking section.,FOLLOWER
+I'll attempt to locate a spot in the smoking section.,FOLLOWER
+I need to find the produce section.,LEADER
+Can you please guide me to the produce section?,LEADER
+My objective is to locate the produce section.,LEADER
+Please show me the way to the produce.,LEADER
+Where is the produce section located?,LEADER
+I require assistance in finding the produce section.,LEADER
+Can you recommend a place with the best local food?,LEADER
+I'm looking for the best local food where should I go?,LEADER
+Where would you suggest I go to experience the best local cuisine?,LEADER
+Please find a restaurant that serves the best local food.,LEADER
+What's the best spot for local food around here?,LEADER
+I want to try the best local food; please provide a location.,LEADER
+Do you have any recommendations for me?,LEADER
+Could you suggest something for me?,LEADER
+I'm looking for a recommendation can you provide one?,LEADER
+What would you recommend in this situation?,LEADER
+Please provide a recommendation.,LEADER
+I need a suggestion what do you have?,LEADER
+We should grab a shopping cart first.,FOLLOWER
+How about we get a shopping cart before we start?,FOLLOWER
+I think we'll need a shopping cart.,FOLLOWER
+The first step is to get a shopping cart.,FOLLOWER
+Let's find the shopping carts.,FOLLOWER
+My suggestion is to get a shopping cart now.,FOLLOWER
+How about we start in the fruit section?,FOLLOWER
+I suggest we begin with the fruit section.,FOLLOWER
+Maybe we could go to the fruit section first.,FOLLOWER
+Let's make the fruit section our first stop.,FOLLOWER
+I'd like to begin by checking out the fruit section.,FOLLOWER
+Shall we start our shopping in the fruit section?,FOLLOWER
+It's time to head to the check-out stand.,FOLLOWER
+I suggest we go to the checkout now.,FOLLOWER
+How about we make our way to the check-out stand?,FOLLOWER
+Let's get in line at the checkout.,FOLLOWER
+I'm ready to go to the check-out stand.,FOLLOWER
+Let's go and pay at the checkout.,FOLLOWER
+Allow me to guide you to your table.,FOLLOWER
+I can show you to the table.,FOLLOWER
+If you'll follow me I'll show you the table.,FOLLOWER
+This way to the table.,FOLLOWER
+Let me lead you to our table.,FOLLOWER
+I will now show you to the table.,FOLLOWER
+Alright we are ready to leave.,FOLLOWER
+We are departing now.,FOLLOWER
+Okay let's get going.,FOLLOWER
+It's time for us to go.,FOLLOWER
+We have decided to depart.,FOLLOWER
+Let's set off.,FOLLOWER
+Is there a Post Office nearby?,LEADER
+Please look for a Post Office in this area.,LEADER
+I need to find a Post Office can you see one?,LEADER
+Can you locate a nearby Post Office?,LEADER
+Are there any Post Offices in the vicinity?,LEADER
+Do you detect a Post Office near our location?,LEADER
+Please place those items in that spot.,LEADER
+I need you to put those over there.,LEADER
+Could you place them on that surface please?,LEADER
+The correct location for those is right there.,LEADER
+Set them down over there please.,LEADER
+Your task is to put them on there.,LEADER
+Our plan is to visit each door in sequence.,FOLLOWER
+The navigation pattern is door to door.,FOLLOWER
+We will be proceeding from one door to the next.,FOLLOWER
+Our route involves going door to door.,FOLLOWER
+Let's proceed to the next door.,FOLLOWER
+We are simply moving between adjacent doors.,FOLLOWER
+I can guide you to her office; please follow me.,FOLLOWER
+Let me lead you to her office it's this way.,FOLLOWER
+Come with me I'll show you where her office is.,FOLLOWER
+Her office is this way I'll take you there.,FOLLOWER
+Follow me and I will show you to her office.,FOLLOWER
+I know the way to her office just come with me.,FOLLOWER
+Can you recommend a restaurant for me in Manhattan?,LEADER
+Please suggest a good restaurant in Manhattan.,LEADER
+I'm looking for a restaurant recommendation in Manhattan.,LEADER
+What restaurant would you suggest here in Manhattan?,LEADER
+I require a suggestion for where to eat in Manhattan.,LEADER
+Find a good restaurant for me in this part of Manhattan.,LEADER
+How about we head over there and lay down a blanket on the grass?,FOLLOWER
+I suggest we go to that spot and spread out a blanket.,FOLLOWER
+Let's find a spot on the lawn over there for our blanket.,FOLLOWER
+My idea is to go over there and set up a blanket on the lawn.,FOLLOWER
+Let's go and put a blanket down on the lawn in that area.,FOLLOWER
+Shall we go over there and lay a blanket on the lawn?,FOLLOWER
+I need you to take me to the bank.,LEADER
+Please drive me to the bank.,LEADER
+Can you provide a ride to the bank?,LEADER
+My destination is the bank; can you drive me?,LEADER
+I require transportation to the bank.,LEADER
+Is it possible for you to drive me to the bank?,LEADER
+I need you to tell me the destination.,LEADER
+Please provide the next set of directions.,LEADER
+What is our destination? Let me know.,LEADER
+Inform me of our next destination.,LEADER
+Give me the directions for where to go next.,LEADER
+I'm ready for the next destination please tell me.,LEADER
+That's not what I need; please give me directions.,LEADER
+I'm asking for directions please.,LEADER
+Please provide me with the route.,LEADER
+I don't need that I just need directions.,LEADER
+My request is for directions please provide them.,LEADER
+I'm clarifying that I need directions.,LEADER
+I need you to go search in the kitchen.,LEADER
+Your task is to go look in the kitchen.,LEADER
+Please proceed to the kitchen and look around.,LEADER
+Navigate to the kitchen and perform a search.,LEADER
+The kitchen is where you need to go and look.,LEADER
+Go to the kitchen and see what you can find.,LEADER
+I need you to find a place that serves the famous tea.,LEADER
+Where is the best place to get the famous tea?,LEADER
+Please locate a tea house known for its famous tea.,LEADER
+Can you direct us to a place to have the famous tea?,LEADER
+We want to try the famous tea; where should we go?,LEADER
+Guide us to a location serving the famous tea.,LEADER
+Shall we go at the same time?,FOLLOWER
+What do you think about us going together?,FOLLOWER
+Maybe we could go as a group.,FOLLOWER
+I suggest we go together.,FOLLOWER
+Would you like to go with me?,FOLLOWER
+Let's make this a joint trip.,FOLLOWER
+I need you to act as my guide.,LEADER
+Can you lead the way for me?,LEADER
+I'm asking you to be my guide.,LEADER
+Please guide me from here.,LEADER
+Will you take on the role of guide?,LEADER
+My request is for you to be my guide.,LEADER
+How about we start with a visit to the Great Wall?,FOLLOWER
+I suggest making the Great Wall our first stop.,FOLLOWER
+Maybe we could begin our tour at the Great Wall.,FOLLOWER
+Let's make the Great Wall our initial destination.,FOLLOWER
+What do you think about starting at the Great Wall?,FOLLOWER
+Let's prioritize the Great Wall as our first visit.,FOLLOWER
+My destination is the beauty parlor.,FOLLOWER
+I need to get to the beauty parlor.,FOLLOWER
+Please take me to the beauty parlor.,FOLLOWER
+I'm on my way to the beauty parlor.,FOLLOWER
+The beauty salon is where I'm headed.,FOLLOWER
+The plan is to go to the beauty parlor.,FOLLOWER
+Okay let's begin walking toward the Epcot Center now.,FOLLOWER
+Alright shall we start our walk to the Epcot Center?,FOLLOWER
+I suggest we proceed to the Epcot Center on foot.,FOLLOWER
+Let's get going to the Epcot Center by walking.,FOLLOWER
+It's time to start walking to the Epcot Center.,FOLLOWER
+Let's head to the Epcot Center on foot then.,FOLLOWER
+What is our destination for today's visit?,LEADER
+Where should we plan on visiting today?,LEADER
+Do you have a place in mind for us to visit today?,LEADER
+What's on the agenda for our visit today?,LEADER
+Please tell me where we will be visiting today.,LEADER
+What location are we heading to for our visit today?,LEADER
+I need to find the laundry facilities in this hotel can you help?,LEADER
+Where can I find a laundry room in the hotel?,LEADER
+Please direct me to the hotel's laundry service.,LEADER
+Can you provide the location of the laundry in this hotel?,LEADER
+I'm looking for the laundry where is it?,LEADER
+What are the directions to the laundry facilities here?,LEADER
+What is the route to the school clinic?,LEADER
+Can you give me directions to the school clinic?,LEADER
+Please show me the way to the school clinic.,LEADER
+What's the best way to get to the school clinic?,LEADER
+I need directions to the school clinic.,LEADER
+How can I reach the school clinic from here?,LEADER
+Pardon me I'm looking for Bob Rice's office.,LEADER
+Could you direct me to Bob Rice's office?,LEADER
+I need to find Bob Rice's office can you help?,LEADER
+Where can I find Bob Rice's office?,LEADER
+Do you know the location of Bob Rice's office?,LEADER
+Please show me the way to Bob Rice's office.,LEADER
+What do you think about the Holiday Inn?,FOLLOWER
+Maybe we could go to the Holiday Inn.,FOLLOWER
+I suggest the Holiday Inn as an option.,FOLLOWER
+The Holiday Inn is a possibility.,FOLLOWER
+Should we consider the Holiday Inn?,FOLLOWER
+Let's consider staying at the Holiday Inn.,FOLLOWER
+Our destination is Mrs. Smith's house to assist with her yard.,FOLLOWER
+We need to go to Mrs. Smith's to help with yard work.,FOLLOWER
+The plan is to help Mrs. Smith with her yard.,FOLLOWER
+Let's head to Mrs. Smith's; we're helping her with the yard.,FOLLOWER
+Take us to Mrs. Smith's we have to help her with yard work.,FOLLOWER
+Our goal is to assist Mrs. Smith with her yard work.,FOLLOWER
+I need to find a place that sells perfume for my girlfriend.,LEADER
+Can you help me find a store to buy perfume?,LEADER
+Please guide me to a location that sells perfume.,LEADER
+My objective is to purchase perfume for my girlfriend.,LEADER
+Where can I find perfume for my girlfriend?,LEADER
+Assist me in locating a shop to buy perfume.,LEADER
+I need to find the returns department.,LEADER
+Please guide me to the location for item returns.,LEADER
+Can you take me to where I can return this?,LEADER
+Where is the customer service desk for returns?,LEADER
+My objective is to return this product.,LEADER
+Show me the way to the returns counter.,LEADER
+Can you direct me to the dining car?,LEADER
+Where is the dining car located?,LEADER
+I need to find the dining car.,LEADER
+What are the directions to the dining car?,LEADER
+How do I get to the dining car from here?,LEADER
+Please point me towards the dining car.,LEADER
+I need to find the Empire State Building.,LEADER
+Can you please guide me to the Empire State Building?,LEADER
+My objective is to locate the Empire State Building.,LEADER
+Please show me the way to the Empire State Building.,LEADER
+Where is the Empire State Building?,LEADER
+I require assistance in finding the Empire State Building.,LEADER
+Please locate the designated meeting place.,LEADER
+I need you to find where we are supposed to meet.,LEADER
+Your task is to find the meeting point.,LEADER
+Are you able to find our meeting location?,LEADER
+Find the location of our meeting.,LEADER
+I command you to find the meeting spot.,LEADER
+Could you direct me to the closest ICCC?,LEADER
+I'm looking for the nearest ICCC can you help?,LEADER
+Where is the ICCC closest to us?,LEADER
+Take me to the nearest ICCC please.,LEADER
+Can you guide me to the ICCC from here?,LEADER
+I need to get to the ICCC. Which way is it?,LEADER
+Can you show me the walking route?,LEADER
+What's the best way to walk there?,LEADER
+I'd like to go on foot please show me the way.,LEADER
+Guide me there but let's walk.,LEADER
+What are the directions for walking?,LEADER
+Let's walk. How do we get there?,LEADER
+Let's get out of this department.,LEADER
+I'm ready to leave this area now.,LEADER
+Can you guide me out of the department?,LEADER
+Show me the way out of this department.,LEADER
+I need to exit the department.,LEADER
+Take me to the exit of the department.,LEADER
+Can you take me to the closest taxi stand?,LEADER
+I need to find a taxi. Where's the nearest stand?,LEADER
+Guide me to the next available taxi stand.,LEADER
+Where can I catch a cab around here?,LEADER
+I'm looking for the taxi stand. Can you help?,LEADER
+Please point me towards the nearest taxi stand.,LEADER
+Tell me when we have arrived.,LEADER
+Alert me once we reach our destination.,LEADER
+Can you notify me when we're there?,LEADER
+Just give me a heads-up when we arrive.,LEADER
+I need to know when we get to the destination.,LEADER
+Inform me upon our arrival please.,LEADER
+While we're here I'd like to point out the cabin.,FOLLOWER
+If we have a moment I can show you the cabin.,FOLLOWER
+This way is the cabin which I wanted you to see.,FOLLOWER
+Oh and I was hoping to show you the cabin.,FOLLOWER
+Could we quickly stop so I can show you the cabin?,FOLLOWER
+The cabin is just over here I was meaning to show you.,FOLLOWER
+I need a ride to the airport please.,LEADER
+My destination is the airport. Can you take me?,LEADER
+Take me to the airport.,LEADER
+Let's go to the airport now.,LEADER
+Please guide me to the airport.,LEADER
+The airport is where I need to go.,LEADER
+Can you help me locate the book 'Gone with the Wind'?,LEADER
+I'm searching for 'Gone with the Wind' and I'm lost. Can you guide me?,LEADER
+Take me to where I can find 'Gone with the Wind'.,LEADER
+I'm having trouble finding 'Gone with the Wind'. Could you show me where it is?,LEADER
+Please lead me to the location of the book 'Gone with the Wind'.,LEADER
+Where is 'Gone with the Wind'? I can't seem to find it.,LEADER
+Alright I'm ready to go when you are.,FOLLOWER
+Okay lead the way.,FOLLOWER
+Sounds good let's start.,FOLLOWER
+I'm ready. After you.,FOLLOWER
+Perfect let's head out.,FOLLOWER
+Okay I'll follow you.,FOLLOWER
+I need a shopping basket. Where are they located?,LEADER
+Can you guide me to the shopping baskets?,LEADER
+Where do I pick up a shopping basket?,LEADER
+Please show me where the shopping baskets are.,LEADER
+I'm looking for a shopping basket can you help?,LEADER
+Take me to the place with the shopping baskets.,LEADER
+I'm lost could you guide me to the entrance?,LEADER
+Please show me the way to the entrance.,LEADER
+Which way is the entrance? I can't find it.,LEADER
+Can you lead me to the main entrance?,LEADER
+I need to get to the entrance. Can you help me?,LEADER
+Where is the entrance from here?,LEADER
+I'm ready to leave now.,FOLLOWER
+Alright let's head out.,FOLLOWER
+Okay I'm prepared to go.,FOLLOWER
+Shall we get started?,FOLLOWER
+I'm ready when you are.,FOLLOWER
+Let's begin.,FOLLOWER
+Take me to the station please.,LEADER
+I need to go to the station now.,LEADER
+The station is my destination.,LEADER
+Please guide me to the station.,LEADER
+Let's head to the station.,LEADER
+Navigate to the station.,LEADER
+Where can I find the cereal?,LEADER
+I'm looking for the cereal aisle can you help?,LEADER
+Please show me where the cereal is located.,LEADER
+Can you guide me to the cereal?,LEADER
+Take me to the cereal section.,LEADER
+I need to find the cereal.,LEADER
+Where is the dishwashing detergent?,LEADER
+I need to find the dishwashing detergent please show me.,LEADER
+Take me to the aisle with dishwashing detergent.,LEADER
+Can you guide me to where I can find dishwashing detergent?,LEADER
+I'm looking for the dishwashing detergent.,LEADER
+Show me the way to the dishwashing detergent.,LEADER
+Over here are some DVD players I wanted to show you.,FOLLOWER
+If you have a moment I'd like to point out our DVD players.,FOLLOWER
+Come see the selection of DVD players we have.,FOLLOWER
+I can give you a quick look at our DVD players.,FOLLOWER
+Follow me I want to show you the DVD players.,FOLLOWER
+Perhaps you'd be interested in seeing our DVD players?,FOLLOWER
+I think I'll join you.,FOLLOWER
+Mind if I tag along?,FOLLOWER
+I'll come along as well.,FOLLOWER
+I could accompany you.,FOLLOWER
+Okay I'll follow you.,FOLLOWER
+Count me in.,FOLLOWER
+I'm going downstairs for coffee feel free to join me.,FOLLOWER
+Fancy coming downstairs with me for a coffee?,FOLLOWER
+I'm about to grab a coffee downstairs care to come along?,FOLLOWER
+Would you like to accompany me downstairs for some coffee?,FOLLOWER
+I'm off to get coffee downstairs. You're welcome to join.,FOLLOWER
+Let's go get coffee downstairs together.,FOLLOWER
+I'm feeling a bit hungry.,FOLLOWER
+I could really go for some food right now.,FOLLOWER
+How about we find a place to eat?,FOLLOWER
+I'm starting to think about lunch.,FOLLOWER
+I'm in the mood for a snack.,FOLLOWER
+Perhaps we could grab something to eat soon.,FOLLOWER
+It's nice out. Maybe we could sit on the grass?,FOLLOWER
+What do you think about going outside to enjoy the sun?,FOLLOWER
+Shall we go find a sunny spot on the lawn?,FOLLOWER
+I'd like to go outside and sit on the grass for a bit.,FOLLOWER
+Let's go enjoy the weather out on the grass.,FOLLOWER
+A break on the grass in the sunshine sounds nice doesn't it?,FOLLOWER
+I'm heading to Central Park now.,FOLLOWER
+My destination is Central Park.,FOLLOWER
+I've decided to go to Central Park.,FOLLOWER
+I will be making my way to Central Park.,FOLLOWER
+I plan on going to Central Park.,FOLLOWER
+Off to Central Park I go.,FOLLOWER
+I'm going to go have a shower now.,FOLLOWER
+I think it's time for me to take a shower.,FOLLOWER
+I'm just going to pop in the shower.,FOLLOWER
+Now I will go and shower.,FOLLOWER
+My plan is to take a shower next.,FOLLOWER
+I'm off to the shower.,FOLLOWER
+Can you show me the way to the post office?,LEADER
+I need to get to the post office please guide me.,LEADER
+How do I get to the post office from here?,LEADER
+Take me to the post office.,LEADER
+What's the route to the post office?,LEADER
+I'm looking for the post office can you help?,LEADER
+I need the route to the restaurant.,LEADER
+Can you guide me to the restaurant?,LEADER
+Show me how to get to the restaurant.,LEADER
+What's the way to the restaurant?,LEADER
+Please navigate me to the restaurant.,LEADER
+I need to go to the restaurant please show me the directions.,LEADER
+How about we grab lunch at Burger Queen?,FOLLOWER
+I'm in the mood for Burger Queen want to go?,FOLLOWER
+Shall we head to Burger Queen for a bite to eat?,FOLLOWER
+What do you think about going to Burger Queen for lunch?,FOLLOWER
+I was thinking we could get lunch at Burger Queen.,FOLLOWER
+Burger Queen sounds good for lunch doesn't it?,FOLLOWER
+I'm looking for a place to buy chocolates. Can you help?,LEADER
+Where can I find some chocolates around here?,LEADER
+Take me to a store that sells chocolates.,LEADER
+Please guide me to the nearest chocolate shop.,LEADER
+I want to buy chocolates. Where should I go?,LEADER
+Show me where the chocolates are sold.,LEADER
+How do I find the Medical Department?,LEADER
+Please show me the way to the Medical Department.,LEADER
+I need directions to the Medical Department.,LEADER
+Can you guide me to the Medical Department?,LEADER
+I'm trying to get to the Medical Department can you help?,LEADER
+What is the route to the Medical Department?,LEADER
+Where is the bus stop for the downtown route?,LEADER
+Can you take me to the bus stop for downtown?,LEADER
+I need to find the downtown bus. Where should I wait?,LEADER
+Show me where to catch the bus that goes downtown.,LEADER
+I'm looking for the downtown bus stop.,LEADER
+Please guide me to the correct bus stop for downtown.,LEADER
+Can you take me to the museum guide?,LEADER
+I'm looking for the museum guide. Can you help?,LEADER
+Where can I find the museum guide?,LEADER
+Please show me the location of the museum guide.,LEADER
+I need to find the museum guide's desk.,LEADER
+Guide me to the museum guide.,LEADER
+Can you show me where to find my favorite white bread?,LEADER
+I'm looking for my usual white bread.,LEADER
+Take me to the aisle with my favorite white bread.,LEADER
+Where do you keep my favorite brand of white bread?,LEADER
+Guide me to my favorite white bread.,LEADER
+I can't find my favorite white bread can you help?,LEADER
+Come with me I want to show you the semi-conductor system site first.,FOLLOWER
+Let's start by going to the semi-conductor system site. I'll lead.,FOLLOWER
+The first stop is the semi-conductor system site. Please follow me.,FOLLOWER
+I'll guide you to the semi-conductor system site now.,FOLLOWER
+Our first destination will be the semi-conductor system site. This way.,FOLLOWER
+I'd like to begin by showing you the semi-conductor system site.,FOLLOWER
+I'll need you to guide me so I don't get lost.,LEADER
+Can you lead the way? I'm afraid I'll get lost by myself.,LEADER
+I don't want to get lost so please take me there.,LEADER
+It would be best if you led I'd probably get lost otherwise.,LEADER
+I'm not sure of the way so I'll need your guidance.,LEADER
+Please navigate for me I'm unfamiliar with the area.,LEADER
+I'm on my way to visit Susan at the hospital.,FOLLOWER
+My destination is the hospital; I'm visiting Susan.,FOLLOWER
+I've decided to go see Susan at the hospital.,FOLLOWER
+I'm heading over to the hospital now to see Susan.,FOLLOWER
+I need to make a trip to the hospital for Susan's visit.,FOLLOWER
+My plan is to go to the hospital and visit Susan.,FOLLOWER
+I'm ready to go to a different room now.,FOLLOWER
+Shall we find another room?,FOLLOWER
+I think I want to be in a different room.,FOLLOWER
+Let's move to the next room.,FOLLOWER
+I'm finished in here could we go somewhere else?,FOLLOWER
+Could we proceed to another room?,FOLLOWER
+I'm heading to the village on foot to buy some meat.,FOLLOWER
+My plan is to walk over to the village for meat.,FOLLOWER
+I'm off to the village now to pick up some meat.,FOLLOWER
+I have to make a trip to the village to get meat.,FOLLOWER
+I've decided to walk to the village for some meat.,FOLLOWER
+I'm just going to walk down to the village and grab some meat.,FOLLOWER
+Take me somewhere I can make a call in private.,LEADER
+I need a quiet spot for a phone call. Guide me.,LEADER
+Lead me to a secluded area for a phone call.,LEADER
+Show me a place where I won't be overheard on the phone.,LEADER
+Let's find a more private location for my calls.,LEADER
+Navigate to a discreet place so I can use my phone.,LEADER
+Can you show me where the timesheets are?,LEADER
+I need to find the timesheets. Please take me there.,LEADER
+Where are the timesheets located? Guide me.,LEADER
+Take me to the location of the timesheets.,LEADER
+I'm looking for the timesheets. Can you help me find them?,LEADER
+Please lead me to where the timesheets are stored.,LEADER
+I need to go to the Cross Bakery building. Please show me the way.,LEADER
+What's the route to the Cross Bakery building?,LEADER
+Guide me to the Cross Bakery building.,LEADER
+How can I reach the Cross Bakery building from here?,LEADER
+Take me to the Cross Bakery building.,LEADER
+I'm trying to find the Cross Bakery building. Can you lead me?,LEADER
+I can lead you there if you'd like.,FOLLOWER
+Shall I guide you?,FOLLOWER
+I know the route I can show you.,FOLLOWER
+Would you like me to guide you to the destination?,FOLLOWER
+Just say the word and I can take you there.,FOLLOWER
+If you're unsure of the path I can lead.,FOLLOWER
+Perhaps we could visit the palace first?,FOLLOWER
+My suggestion is that we start with the palace.,FOLLOWER
+What if we head to the palace to begin with?,FOLLOWER
+Maybe the palace should be our first stop.,FOLLOWER
+I feel like the palace is the best place to start.,FOLLOWER
+How about we make the palace our first destination?,FOLLOWER
+I'm looking for the scholar cinema. Can you guide me?,LEADER
+Where is the scholar cinema located? Please show me.,LEADER
+Take me to the scholar cinema.,LEADER
+Please navigate to the scholar cinema.,LEADER
+I need to get to the scholar cinema. Which way is it?,LEADER
+How do I get to the scholar cinema from here?,LEADER
+I'm lost. I need to find the registration office.,LEADER
+Can you guide me to the registration office? I'm not sure where it is.,LEADER
+I need to get to the registration office but I don't know the way.,LEADER
+Please take me to the registration office; I can't find it.,LEADER
+The registration office is my destination but I'm unfamiliar with the path.,LEADER
+Show me the way to the registration office.,LEADER
+Is this the correct route to the central department stall?,LEADER
+Are we heading towards the central department stall?,LEADER
+Will this path take us to the central department stall?,LEADER
+Am I going the right way for the central department stall?,LEADER
+Confirm this is the way to the central department stall.,LEADER
+Does this path lead to the central department stall?,LEADER
+This assistant will handle your bags and guide you to your room.,FOLLOWER
+Your luggage will be taken care of and you'll be shown to your room.,FOLLOWER
+Just follow him; he has your luggage and knows the way to your room.,FOLLOWER
+He is here to escort you to your room with your luggage.,FOLLOWER
+Let him lead you to your room; he will also manage your bags.,FOLLOWER
+He will now guide you and your luggage to the room.,FOLLOWER
+I see a couple of free seats. Shall we go grab them?,FOLLOWER
+Quick let's go to those empty seats over there.,FOLLOWER
+Two seats just opened up. Let's head that way.,FOLLOWER
+What do you think about moving to those vacant seats?,FOLLOWER
+Let's make our way to those seats before they're taken.,FOLLOWER
+I've spotted some open seats. We should move there now.,FOLLOWER
+If so I'd better try another store.,FOLLOWER
+In that case I should probably check a different shop.,FOLLOWER
+If that's the situation then I need to look for an alternative store.,FOLLOWER
+Given that I think my best move is to try a different location.,FOLLOWER
+If that's how it is I will have to search another store.,FOLLOWER
+Should that be true I'd be better off going to another shop.,FOLLOWER
+Could you suggest a dining spot?,LEADER
+I'd like your assistance in locating a restaurant.,LEADER
+Find a suitable place for us to eat please.,LEADER
+I need you to help me discover an eatery.,LEADER
+Where can we grab a meal? Can you guide me?,LEADER
+I'm hoping you can help me find a good spot for food.,LEADER
+I'm currently searching for a place to have a meal.,FOLLOWER
+I need to find somewhere to eat.,FOLLOWER
+My intention is to find a location for dining.,FOLLOWER
+I'm in the process of looking for an eating place.,FOLLOWER
+I want to locate a place where I can eat.,FOLLOWER
+I'm attempting to find a place to satisfy my hunger.,FOLLOWER
+I propose we use the computer to check what's happening.,FOLLOWER
+We should get on the computer and see the current status.,FOLLOWER
+Let's access the computer to investigate the situation.,FOLLOWER
+My suggestion is to use the device to find out more.,FOLLOWER
+Let's check the computer to get some information.,FOLLOWER
+I think we should look on the computer to see what's going on.,FOLLOWER
+I need to speak with the manager as I have a grievance.,LEADER
+Would you be able to summon the manager? I wish to file a complaint.,LEADER
+I'd like to see the manager regarding an issue I need to report.,LEADER
+Get me the manager I have something to complain about.,LEADER
+I require an audience with the manager to express my dissatisfaction.,LEADER
+Can you get the manager? I have a complaint.,LEADER
+Pardon me where is the location for sign-up?,LEADER
+Excuse me. Where do I need to go to complete my registration?,LEADER
+Could you direct me to the registration area please?,LEADER
+I need directions to where I can officially register.,LEADER
+Where can I check in?,LEADER
+I'm trying to find the place where registration takes place.,LEADER
+I am headed towards the medical facility.,FOLLOWER
+I'm making my way to the hospital right now.,FOLLOWER
+My destination is the hospital.,FOLLOWER
+The plan is for me to go to the hospital.,FOLLOWER
+I'm en route to the medical center.,FOLLOWER
+I'm traveling to the hospital.,FOLLOWER
+Please proceed ahead of me.,LEADER
+You may go first.,LEADER
+I insist you take the lead.,LEADER
+Go on I'll follow.,LEADER
+After you if you please.,LEADER
+I grant you permission to go first.,LEADER
+Let's get some blossoms and then go see her.,FOLLOWER
+I suggest we purchase some flowers and pay her a visit.,FOLLOWER
+We should buy flowers and then visit her.,FOLLOWER
+Let's go and acquire some flowers before visiting her.,FOLLOWER
+I want us to buy flowers and go see her.,FOLLOWER
+We need to buy some flowers so we can visit her.,FOLLOWER
+Tell me where I should be seated.,LEADER
+Please indicate the spot where I am to sit.,LEADER
+Where do you want me to sit?,LEADER
+I need to know my assigned seating location.,LEADER
+Which seat am I supposed to take?,LEADER
+Direct me to my seat.,LEADER
+Are you willing to accompany me?,FOLLOWER
+Do you intend to join me?,FOLLOWER
+I'd like to know if you'll come along with me.,FOLLOWER
+Would you be able to accompany me on this trip?,FOLLOWER
+Will you come along?,FOLLOWER
+Can you come with me?,FOLLOWER
+Please tell me Tom's location.,LEADER
+Where can I find Tom?,LEADER
+I need you to locate Tom for me.,LEADER
+Point me in the direction of Tom.,LEADER
+Can you tell me where Tom is?,LEADER
+Give me Tom's current whereabouts.,LEADER
+I must acquire some food.,FOLLOWER
+I'm planning to get a bite to eat.,FOLLOWER
+My goal is to find something to consume.,FOLLOWER
+I'm looking to pick up a meal.,FOLLOWER
+I have to go and get some food now.,FOLLOWER
+I need to find food for myself.,FOLLOWER
+Can you assist me? My classroom is proving difficult to locate.,LEADER
+I need your help; I am unable to find the correct classroom.,LEADER
+Please help me. I'm lost and can't seem to find my class location.,LEADER
+I require assistance in locating my class as I cannot find it myself.,LEADER
+I'm having trouble finding my class. Can you guide me?,LEADER
+I'm asking for your help; where is my class?,LEADER
+I have an appointment to attend a meeting.,FOLLOWER
+I am scheduled to be at a meeting.,FOLLOWER
+My presence is required at a meeting.,FOLLOWER
+I must go to a scheduled meeting.,FOLLOWER
+I need to be at a meeting shortly.,FOLLOWER
+I'm on my way to attend a meeting.,FOLLOWER
+Excuse me. I would like to see Dean Mr. Lee first. Could you tell me the location of his office?,LEADER
+Pardon me I need to see Dean Mr. Lee initially. Where is his office located?,LEADER
+I'd like to meet with Dean Mr. Lee first. Can you show me the way to his office?,LEADER
+Excuse me. I need directions to Dean Mr. Lee's office as I must see him first.,LEADER
+I wonder if you could direct me to Dean Mr. Lee's office? I need to speak to him right away.,LEADER
+I have an urgent need to see Dean Mr. Lee. Could you please guide me to his office?,LEADER
+We are going to eat rice dumplings.,FOLLOWER
+I propose we have rice dumplings.,FOLLOWER
+The choice of food is rice dumplings.,FOLLOWER
+We should opt for rice dumplings.,FOLLOWER
+Our meal will consist of rice dumplings.,FOLLOWER
+I'd like for us to consume rice dumplings.,FOLLOWER
+I'm here for a visit with my uncle.,LEADER
+My purpose for being here is to see my uncle.,LEADER
+I have come specifically to visit my uncle.,LEADER
+I need to be directed to my uncle.,LEADER
+My uncle is the person I came to meet.,LEADER
+I am visiting my uncle right now.,LEADER
+I need to depart immediately.,FOLLOWER
+I must leave now.,FOLLOWER
+I've got to move quickly.,FOLLOWER
+I am in a hurry and must go.,FOLLOWER
+I have to make a quick exit.,FOLLOWER
+I need to rush off.,FOLLOWER
+We need to search for a new place to live.,LEADER
+It is essential that we find new accommodations.,LEADER
+Our next task is finding a different place to reside.,LEADER
+We must locate a new dwelling.,LEADER
+I need your help in finding us a new home.,LEADER
+Help us identify a suitable new place to stay.,LEADER
+I feel an urge to eat.,FOLLOWER
+My body is signaling a need for food.,FOLLOWER
+I am experiencing hunger.,FOLLOWER
+I'm getting hungry and need to eat.,FOLLOWER
+I could really use a meal right now.,FOLLOWER
+I have an appetite for food.,FOLLOWER
+Hello could you help me find a location to purchase some lunch?,LEADER
+Hi I need assistance locating a place where I can buy lunch.,LEADER
+Excuse me can you direct me to a place where I can get lunch?,LEADER
+I wonder if you could help me find an eatery for lunch.,LEADER
+Could you point me toward a place to buy my midday meal?,LEADER
+I need your guidance to find a lunch spot please.,LEADER
+I want to purchase a present for my father. Will you accompany me to select one for him?,FOLLOWER
+I need to buy a gift for my dad. Can you come with me to help choose it?,FOLLOWER
+I'm planning to get a gift for my father and I'd like you to go with me to pick it out.,FOLLOWER
+My intention is to acquire a gift for my dad. Will you join me for the selection process?,FOLLOWER
+I need to go and buy my father a gift. I'd appreciate it if you came along to help me choose.,FOLLOWER
+I must select a gift for my father. Can you join me on this errand?,FOLLOWER
+I was searching for a book but it remains unfound.,LEADER
+Can you help me find a book? I couldn't locate it myself.,LEADER
+I have been trying to locate a specific book without success.,LEADER
+I couldn't find the book I was looking for.,LEADER
+I'm seeking a book that I haven't been able to find yet.,LEADER
+I was unable to find the book that I was searching for.,LEADER
+I'm going with my wife to the hospital.,FOLLOWER
+My plan is to join my wife on her trip to the hospital.,FOLLOWER
+I will be taking my wife to the hospital.,FOLLOWER
+I'm going to escort my wife to the medical facility.,FOLLOWER
+I'll join my wife for her visit to the hospital.,FOLLOWER
+I'm heading to the hospital as an escort for my wife.,FOLLOWER
+Could you tell me which building it is located in?,LEADER
+Do you have information on which building houses that?,LEADER
+Can you identify the building where that is situated?,LEADER
+I need to know the specific building location.,LEADER
+Which building is that in do you know?,LEADER
+Tell me the name of the building it's in.,LEADER
+How about we go outside for a stroll?,FOLLOWER
+I suggest we take a walk outdoors.,FOLLOWER
+Let's step outside and have a walk.,FOLLOWER
+I'd like to go outside for a brief walk.,FOLLOWER
+I propose we leave and go for a walk.,FOLLOWER
+Let's take a stroll outside for a while.,FOLLOWER
